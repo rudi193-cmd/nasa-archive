@@ -5,8 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  // Update site to your custom domain once configured
-  // site: 'https://your-domain.com',
+  site: 'https://seancampbell.neocities.org',
   output: 'static',
   vite: {
     plugins: [tailwindcss()]
