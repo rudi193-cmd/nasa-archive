@@ -1,0 +1,37 @@
+---
+import '../styles/global.css';
+const { title = 'NASA — North America Scootering Archive' } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body class="min-h-screen">
+    <header class="border-b border-[#CC4444] px-6 py-4 flex items-center justify-between">
+      <a href="/" class="text-[#CC4444] font-bold text-xl tracking-widest uppercase">
+        NASA
+        <span class="text-[#f5f0e8] text-sm font-normal ml-2 normal-case tracking-normal">
+          North America Scootering Archive
+        </span>
+      </a>
+      <nav class="flex gap-6 text-sm">
+        <a href="/rallies" class="hover:text-[#CC4444] transition-colors">Rallies</a>
+        <a href="/patches" class="hover:text-[#CC4444] transition-colors">Patches</a>
+        <a href="/calendar" class="hover:text-[#CC4444] transition-colors">Calendar</a>
+        <a href="/contribute" class="hover:text-[#CC4444] transition-colors">Contribute</a>
+      </nav>
+    </header>
+    <main class="px-6 py-8 max-w-7xl mx-auto">
+      <slot />
+    </main>
+    <footer class="border-t border-[#333] px-6 py-6 text-center text-xs text-[#666] mt-16">
+      NASA — North America Scootering Archive &nbsp;·&nbsp;
+      Photos preserved from scoot.net (2000–2014) &nbsp;·&nbsp;
+      <a href="https://github.com/nasa-scooter/nasa-archive" class="hover:text-[#CC4444]">GitHub</a>
+    </footer>
+  </body>
+</html>

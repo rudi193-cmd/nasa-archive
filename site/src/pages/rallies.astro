@@ -1,0 +1,53 @@
+---
+import Base from '../layouts/Base.astro';
+import { readFileSync } from 'fs';
+import { join } from 'path';
+
+const DATA_DIR = join(process.cwd(), '..', 'data');
+
+let rallies = [];
+try {
+  const raw = JSON.parse(readFileSync(join(DATA_DIR, 'index.json'), 'utf-8'));
+  rallies = raw.rallies_list || [];
+} catch (e) {}
+
+const years = [...new Set(rallies.map(r => r.year).filter(Boolean))].sort((a, b) => b - a);
+const selectedYear = Astro.url.searchParams.get('year') || 'all';
+const filtered = selectedYear === 'all' ? rallies : rallies.filter(r => r.year == selectedYear);
+---
+<Base title="Rallies — NASA Archive">
+  <div class="flex items-center justify-between mb-8">
+    <h1 class="text-2xl font-bold text-[#CC4444] uppercase tracking-widest">Rallies</h1>
+    <div class="flex gap-2 flex-wrap">
+      <a href="/rallies" class={`px-3 py-1 text-xs border ${selectedYear === 'all' ? 'border-[#CC4444] text-[#CC4444]' : 'border-[#444] text-[#666] hover:border-[#CC4444] hover:text-[#CC4444]'}`}>
+        All
+      </a>
+      {years.map(y => (
+        <a href={`/rallies?year=${y}`} class={`px-3 py-1 text-xs border ${selectedYear == y ? 'border-[#CC4444] text-[#CC4444]' : 'border-[#444] text-[#666] hover:border-[#CC4444] hover:text-[#CC4444]'}`}>
+          {y}
+        </a>
+      ))}
+    </div>
+  </div>
+
+  {filtered.length === 0 ? (
+    <p class="text-[#666] text-center py-16">Data still loading — run the scraper first.</p>
+  ) : (
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      {filtered.map(rally => (
+        <a href={`/rally/${rally.slug.replace(/\//g, '-')}`}
+          class="border border-[#333] p-4 hover:border-[#CC4444] transition-colors group">
+          <div class="text-[#CC4444] text-xs uppercase tracking-wider mb-1">
+            {rally.date_rally || rally.year || 'Unknown date'}
+          </div>
+          <div class="text-[#f5f0e8] font-medium group-hover:text-white">
+            {rally.title || rally.slug}
+          </div>
+          <div class="text-[#555] text-xs mt-2">
+            {rally.photo_count?.toLocaleString() || 0} photos
+          </div>
+        </a>
+      ))}
+    </div>
+  )}
+</Base>

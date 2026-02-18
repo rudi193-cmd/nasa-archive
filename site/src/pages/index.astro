@@ -1,0 +1,71 @@
+---
+import Base from '../layouts/Base.astro';
+import { readFileSync } from 'fs';
+import { join } from 'path';
+
+const DATA_DIR = join(process.cwd(), '..', 'data');
+
+let stats = { rallies: 0, total_photos_mapped: 0, patches: 0 };
+try {
+  stats = JSON.parse(readFileSync(join(DATA_DIR, 'index.json'), 'utf-8'));
+} catch (e) {}
+---
+<Base title="NASA — North America Scootering Archive">
+  <section class="text-center py-16">
+    <h1 class="text-5xl font-bold text-[#CC4444] tracking-widest uppercase mb-4">NASA</h1>
+    <p class="text-xl text-[#f5f0e8] mb-2">North America Scootering Archive</p>
+    <p class="text-[#888] max-w-xl mx-auto mb-12">
+      Preserving the history of North American scooter rallies from 1997 onwards.
+      Photos, patches, stories — the record of a community.
+    </p>
+
+    <div class="grid grid-cols-3 gap-8 max-w-lg mx-auto mb-16">
+      <div class="border border-[#CC4444] p-6">
+        <div class="text-3xl font-bold text-[#CC4444]">{stats.rallies.toLocaleString()}</div>
+        <div class="text-xs text-[#888] mt-1 uppercase tracking-wider">Rallies</div>
+      </div>
+      <div class="border border-[#CC4444] p-6">
+        <div class="text-3xl font-bold text-[#CC4444]">{stats.total_photos_mapped.toLocaleString()}</div>
+        <div class="text-xs text-[#888] mt-1 uppercase tracking-wider">Photos</div>
+      </div>
+      <div class="border border-[#CC4444] p-6">
+        <div class="text-3xl font-bold text-[#CC4444]">{stats.patches.toLocaleString()}</div>
+        <div class="text-xs text-[#888] mt-1 uppercase tracking-wider">Patches</div>
+      </div>
+    </div>
+
+    <div class="flex gap-4 justify-center flex-wrap">
+      <a href="/rallies" class="bg-[#CC4444] text-white px-8 py-3 uppercase tracking-widest text-sm hover:bg-[#aa3333] transition-colors">
+        Browse Rallies
+      </a>
+      <a href="/patches" class="border border-[#CC4444] text-[#CC4444] px-8 py-3 uppercase tracking-widest text-sm hover:bg-[#CC4444] hover:text-white transition-colors">
+        Patch Gallery
+      </a>
+      <a href="/contribute" class="border border-[#555] text-[#888] px-8 py-3 uppercase tracking-widest text-sm hover:border-[#CC4444] hover:text-[#CC4444] transition-colors">
+        Add Your Story
+      </a>
+    </div>
+  </section>
+
+  <section class="mt-8">
+    <h2 class="text-[#CC4444] uppercase tracking-widest text-sm mb-6 border-b border-[#333] pb-2">
+      About This Archive
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-sm text-[#aaa]">
+      <div>
+        <h3 class="text-[#f5f0e8] mb-2">The Record</h3>
+        <p>Photos and patches from scoot.net, preserved from 1997–2014. The original site
+        went quiet around 2013 as Facebook absorbed rally posting. This archive picks up where it left off.</p>
+      </div>
+      <div>
+        <h3 class="text-[#f5f0e8] mb-2">Claim Your Photos</h3>
+        <p>Were you there? Tag yourself in photos, add context, correct dates.
+        The archive belongs to the community that lived it.</p>
+      </div>
+      <div>
+        <h3 class="text-[#f5f0e8] mb-2">Keep It Going</h3>
+        <p>Rallies still happen. Add new photos, new patches, new events. The record continues.</p>
+      </div>
+    </div>
+  </section>
+</Base>

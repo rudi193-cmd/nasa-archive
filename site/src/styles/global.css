@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --nasa-red: #CC4444;
+  --nasa-dark: #1a1a1a;
+  --nasa-cream: #f5f0e8;
+}
+
+body {
+  background-color: var(--nasa-dark);
+  color: var(--nasa-cream);
+  font-family: 'Courier New', Courier, monospace;
+}

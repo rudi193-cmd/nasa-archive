@@ -1,0 +1,135 @@
+---
+import Base from '../../layouts/Base.astro';
+import { readFileSync, readdirSync } from 'fs';
+import { join } from 'path';
+
+const DATA_DIR = join(process.cwd(), '..', 'data', 'rallies');
+
+// Build static paths from available rally directories
+export async function getStaticPaths() {
+  let paths = [];
+  try {
+    const dirs = readdirSync(DATA_DIR);
+    paths = dirs.map(slug => ({ params: { slug } }));
+  } catch (e) {}
+  return paths;
+}
+
+const { slug } = Astro.params;
+const rallyDir = join(DATA_DIR, slug);
+
+let meta = {};
+let photos = [];
+
+try {
+  meta = JSON.parse(readFileSync(join(rallyDir, 'meta.json'), 'utf-8'));
+  photos = JSON.parse(readFileSync(join(rallyDir, 'photos.json'), 'utf-8'));
+} catch (e) {}
+
+// Group photos by photographer
+const byPhotographer = photos.reduce((acc, p) => {
+  const key = p.photographer || 'Unknown';
+  if (!acc[key]) acc[key] = [];
+  acc[key].push(p);
+  return acc;
+}, {});
+
+const title = meta.title || slug;
+const dateLabel = meta.date_rally || (meta.year ? String(meta.year) : 'Unknown date');
+---
+<Base title={`${title} — NASA Archive`}>
+  <!-- Breadcrumb -->
+  <div class="text-xs text-[#555] mb-6">
+    <a href="/rallies" class="hover:text-[#CC4444]">Rallies</a>
+    <span class="mx-2">›</span>
+    <span class="text-[#888]">{title}</span>
+  </div>
+
+  <!-- Rally header -->
+  <div class="mb-8 border-b border-[#333] pb-6">
+    <div class="text-[#CC4444] text-sm uppercase tracking-widest mb-1">{dateLabel}</div>
+    <h1 class="text-3xl font-bold text-[#f5f0e8] mb-3">{title}</h1>
+    <div class="flex gap-6 text-sm text-[#666]">
+      <span>{photos.length.toLocaleString()} photos</span>
+      <span>{Object.keys(byPhotographer).length} photographers</span>
+      {meta.date_exif && <span class="text-[#444] text-xs">EXIF dates preserved but not verified</span>}
+    </div>
+  </div>
+
+  {photos.length === 0 ? (
+    <div class="text-center py-16 text-[#555]">
+      <p>No photos mapped for this rally yet.</p>
+      <p class="text-xs mt-2">This may be a legacy gallery with a different format.</p>
+    </div>
+  ) : (
+    <div>
+      <!-- Per-photographer sections -->
+      {Object.entries(byPhotographer).map(([photographer, pics]) => (
+        <div class="mb-10">
+          <h2 class="text-[#888] text-sm uppercase tracking-wider mb-4 flex items-center gap-3">
+            <span class="text-[#CC4444]">◆</span>
+            {photographer}
+            <span class="text-[#444] font-normal normal-case tracking-normal">
+              {pics.length} photos
+            </span>
+          </h2>
+
+          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-2">
+            {pics.map(photo => (
+              <a
+                href={photo.r2_thumb || photo.source_url || photo.pic_url}
+                target="_blank"
+                rel="noopener"
+                class="group relative aspect-square bg-[#111] border border-[#222] hover:border-[#CC4444] transition-colors overflow-hidden"
+                title={photo.alt || `Photo ${photo.pic_id}`}
+              >
+                {photo.r2_thumb ? (
+                  <img
+                    src={photo.r2_thumb}
+                    alt={photo.alt || ''}
+                    class="w-full h-full object-cover group-hover:opacity-80 transition-opacity"
+                    loading="lazy"
+                  />
+                ) : (
+                  <!-- Not yet downloaded — link to original scoot.net -->
+                  <div class="w-full h-full flex items-center justify-center">
+                    <a
+                      href={photo.pic_url}
+                      target="_blank"
+                      class="text-[#444] text-xs text-center px-2 hover:text-[#CC4444]"
+                    >
+                      #{photo.pic_id}
+                    </a>
+                  </div>
+                )}
+
+                <!-- Claim indicator -->
+                {photo.claims?.length > 0 && (
+                  <div class="absolute bottom-0 left-0 right-0 bg-[#CC4444] text-white text-xs py-0.5 text-center">
+                    {photo.claims.length} claimed
+                  </div>
+                )}
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+
+      <!-- Contribute section -->
+      <div class="mt-12 border border-[#333] p-6 text-sm text-[#666]">
+        <h3 class="text-[#f5f0e8] mb-2">Were you there?</h3>
+        <p class="mb-4">Tag yourself in photos, add context, or share your story from this rally.</p>
+        <div class="flex gap-4">
+          <a href={`/contribute?rally=${slug}`}
+            class="border border-[#CC4444] text-[#CC4444] px-4 py-2 text-xs uppercase tracking-wider hover:bg-[#CC4444] hover:text-white transition-colors">
+            Claim a Photo
+          </a>
+          <a href={`/contribute?rally=${slug}&type=story`}
+            class="border border-[#555] text-[#666] px-4 py-2 text-xs uppercase tracking-wider hover:border-[#CC4444] hover:text-[#CC4444] transition-colors">
+            Add Your Story
+          </a>
+        </div>
+      </div>
+    </div>
+  )}
+</Base>
