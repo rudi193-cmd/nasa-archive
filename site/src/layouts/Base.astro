@@ -18,11 +18,18 @@ const { title = 'NASA — North America Scootering Archive' } = Astro.props;
           North America Scootering Archive
         </span>
       </a>
-      <nav class="flex gap-6 text-sm">
+      <nav class="flex gap-6 text-sm items-center">
         <a href="/rallies" class="hover:text-[#CC4444] transition-colors">Rallies</a>
         <a href="/patches" class="hover:text-[#CC4444] transition-colors">Patches</a>
         <a href="/calendar" class="hover:text-[#CC4444] transition-colors">Calendar</a>
         <a href="/contribute" class="hover:text-[#CC4444] transition-colors">Contribute</a>
+        <span class="border-l border-[#333] pl-6">
+          <a href="/login" id="nav-signin" class="text-[#666] hover:text-[#CC4444] transition-colors text-xs uppercase tracking-wider">Sign In</a>
+          <span id="nav-user" class="hidden items-center gap-3">
+            <a href="/profile" class="text-[#f5f0e8] text-xs hover:text-[#CC4444] transition-colors" id="nav-username"></a>
+            <button id="nav-signout" class="text-[#444] text-xs hover:text-[#CC4444] transition-colors uppercase tracking-wider">Out</button>
+          </span>
+        </span>
       </nav>
     </header>
     <main class="px-6 py-8 max-w-7xl mx-auto">
@@ -35,3 +42,38 @@ const { title = 'NASA — North America Scootering Archive' } = Astro.props;
     </footer>
   </body>
 </html>
+
+<script>
+  import { supabase } from '../lib/supabase';
+
+  const signIn = document.getElementById('nav-signin');
+  const navUser = document.getElementById('nav-user');
+  const navUsername = document.getElementById('nav-username');
+  const signOut = document.getElementById('nav-signout');
+
+  async function updateNav() {
+    const { data: { session } } = await supabase.auth.getSession();
+    if (session?.user) {
+      signIn?.classList.add('hidden');
+      navUser?.classList.remove('hidden');
+      navUser?.classList.add('inline-flex');
+      const name = session.user.user_metadata?.user_name
+        || session.user.user_metadata?.name
+        || session.user.email?.split('@')[0]
+        || 'You';
+      if (navUsername) navUsername.textContent = name;
+    } else {
+      signIn?.classList.remove('hidden');
+      navUser?.classList.add('hidden');
+    }
+  }
+
+  updateNav();
+
+  signOut?.addEventListener('click', async () => {
+    await supabase.auth.signOut();
+    window.location.href = '/';
+  });
+
+  supabase.auth.onAuthStateChange(() => updateNav());
+</script>

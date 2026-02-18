@@ -1,0 +1,89 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Sign In — NASA Archive">
+  <div class="max-w-sm mx-auto py-16">
+    <h1 class="text-2xl font-bold text-[#CC4444] uppercase tracking-widest mb-2">Sign In</h1>
+    <p class="text-[#666] text-sm mb-8">
+      Sign in to claim photos, add stories, and track your rally history.
+    </p>
+
+    <!-- GitHub OAuth -->
+    <button id="github-login"
+      class="w-full border border-[#CC4444] text-[#CC4444] px-4 py-3 text-sm uppercase tracking-wider hover:bg-[#CC4444] hover:text-white transition-colors flex items-center justify-center gap-3 mb-4">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+      </svg>
+      Continue with GitHub
+    </button>
+
+    <!-- Divider -->
+    <div class="flex items-center gap-3 mb-4">
+      <div class="flex-1 border-t border-[#333]"></div>
+      <span class="text-[#444] text-xs uppercase tracking-wider">or</span>
+      <div class="flex-1 border-t border-[#333]"></div>
+    </div>
+
+    <!-- Email magic link -->
+    <form id="email-form">
+      <input
+        type="email"
+        id="email-input"
+        placeholder="your@email.com"
+        class="w-full bg-transparent border border-[#333] px-4 py-3 text-sm text-[#f5f0e8] placeholder-[#444] focus:outline-none focus:border-[#CC4444] mb-3"
+        required
+      />
+      <button type="submit"
+        class="w-full border border-[#555] text-[#666] px-4 py-3 text-sm uppercase tracking-wider hover:border-[#CC4444] hover:text-[#CC4444] transition-colors">
+        Send Magic Link
+      </button>
+    </form>
+
+    <div id="auth-message" class="mt-4 text-sm text-center hidden"></div>
+
+    <p class="text-[#444] text-xs text-center mt-8">
+      Your account lets you claim photos, add stories, and track the rallies you've been to.
+      Nothing is sold, nothing is shared.
+    </p>
+  </div>
+</Base>
+
+<script>
+  import { supabase } from '../lib/supabase';
+
+  const message = document.getElementById('auth-message')!;
+
+  function showMessage(text: string, isError = false) {
+    message.textContent = text;
+    message.className = `mt-4 text-sm text-center ${isError ? 'text-[#CC4444]' : 'text-[#888]'}`;
+    message.classList.remove('hidden');
+  }
+
+  // GitHub OAuth
+  document.getElementById('github-login')!.addEventListener('click', async () => {
+    const { error } = await supabase.auth.signInWithOAuth({
+      provider: 'github',
+      options: {
+        redirectTo: `${window.location.origin}/auth/callback`,
+      },
+    });
+    if (error) showMessage(error.message, true);
+  });
+
+  // Email magic link
+  document.getElementById('email-form')!.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = (document.getElementById('email-input') as HTMLInputElement).value;
+    const { error } = await supabase.auth.signInWithOtp({
+      email,
+      options: {
+        emailRedirectTo: `${window.location.origin}/auth/callback`,
+      },
+    });
+    if (error) {
+      showMessage(error.message, true);
+    } else {
+      showMessage(`Magic link sent to ${email} — check your inbox.`);
+    }
+  });
+</script>
