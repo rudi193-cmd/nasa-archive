@@ -1,21 +1,12 @@
-name: Deploy to GitHub Pages
+name: Deploy to Neocities
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -34,18 +25,9 @@ jobs:
         run: npm run build
         working-directory: site
 
-      - uses: actions/configure-pages@v4
-
-      - uses: actions/upload-pages-artifact@v3
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v3
         with:
-          path: site/dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/deploy-pages@v4
-        id: deployment
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: site/dist
+          cleanup: true
