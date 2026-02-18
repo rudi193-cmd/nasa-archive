@@ -24,7 +24,7 @@ DELAY = 0.3
 
 
 def get_r2_client():
-    account_id = os.environ["R2_ACCOUNT_ID"]
+    account_id = os.environ["CLOUDFLARE_ACCOUNT_ID"]
     return boto3.client(
         "s3",
         endpoint_url=f"https://{account_id}.r2.cloudflarestorage.com",
