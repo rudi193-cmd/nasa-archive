@@ -1,205 +1,153 @@
 # NASA — North America Scootering Archive
 
-A community-owned digital archive preserving the history of North American scooter rallies from 1997 onwards. Photos, patches, stories — the record of a community.
+**Do you remember?**
 
-**Source material:** scoot.net gallery, patch gallery, and calendar (2000–2014)
-**Stack:** Python scraper → Cloudflare R2 → GitHub (data as JSON) → Astro static site → GitHub Pages
-**Status:** Active development. Mapper running. Photos not yet uploaded.
+Do you remember when rally photos lived on scoot.net? When you'd get home Monday morning, still smelling like premix and someone else's couch, and check to see if your photos were up yet?
+
+Do you remember refreshing the gallery page? Seeing yourself in the background of someone's shot, mid-laugh, mid-story, mid-everything that made those weekends matter?
+
+Do you remember the patches?
+
+This is the archive of that. All of it. Before it disappears.
 
 ---
 
 ## What This Is
 
-scoot.net was the hub of North American scooter culture from roughly 1997 to 2013, when Facebook absorbed rally organizing and posting. The site went quiet but the photos stayed up — thousands of rally photos, patch scans, and event listings spanning nearly two decades.
+From roughly 1997 to 2013, scoot.net was the home of North American scooter rally culture. If you went to a rally, the photos ended up there. If you wanted to know what was happening next month, you checked the calendar. If you collected patches, you knew the gallery.
 
-This archive:
-- Scrapes and preserves that history before it disappears
-- Hosts images on Cloudflare R2 (permanent, fast, cheap)
-- Lets community members claim photos, add stories, correct dates
-- Picks up where scoot.net left off — ongoing events, new photos, new patches
-- Will have an LLM-guided oral history feature so people can share what they remember
+Then Facebook happened. Organizing moved to event pages. Photos went to albums that disappeared when someone deleted their account. The calendar went quiet. The patches stopped being scanned.
 
----
+scoot.net stayed up, but it stopped growing. And now it's just... there. Waiting.
 
-## Repository Structure
+**This archive is what we're doing about that.**
 
-```
-nasa-archive/
-├── scraper/              # Python — maps scoot.net structure
-│   ├── map_site.py       # Phase 1: discover all rally/photo URLs
-│   ├── build_data.py     # Transforms mapper output into site data
-│   ├── requirements.txt
-│   └── output/           # Scraper output (gitignored)
-│
-├── downloader/           # Python — downloads images, uploads to R2
-│   └── download.py
-│
-├── data/                 # Site data (JSON, committed to repo)
-│   ├── index.json        # Master stats + rally list
-│   └── rallies/
-│       └── {slug}/
-│           ├── meta.json
-│           └── photos.json
-│
-├── site/                 # Astro static site
-│   └── src/
-│       ├── layouts/
-│       │   └── Base.astro
-│       └── pages/
-│           ├── index.astro       # Homepage
-│           ├── rallies.astro     # Browse all rallies
-│           ├── rally/[slug].astro # Individual rally
-│           ├── patches.astro     # Patch gallery
-│           ├── calendar.astro    # Upcoming + past events
-│           └── contribute.astro  # Claim photos, add stories
-│
-└── .github/
-    └── workflows/
-        └── deploy.yml    # Auto-deploy to GitHub Pages on push
-```
+We're preserving:
+- **Every rally photo** from the scoot.net gallery (1997–2013)
+- **Every patch scan** from the patch gallery
+- **Every event** from the calendar archive
+- **The stories** people remember about all of it
+
+And then we're picking up where it left off:
+- New rallies
+- New photos  
+- New patches
+- New stories
+
+Because the community didn't end. It just stopped having a home.
 
 ---
 
-## Running Locally
+## What We're Saving
 
-### Prerequisites
-- Python 3.10+
-- Node.js 20+
-- A `.env` file (see below)
+**1,147 rallies.**  
+**Approximately 85,000 photos.**  
+**Hundreds of patches.**  
+**Nearly two decades of going places together.**
 
-### 1. Map the gallery (scraper)
+From Amerivespa to regional rallies nobody outside three states heard of. From the big ones everyone went to, to the tiny ones that mattered just as much. From coasts to cornfields to everywhere scooters could get to.
 
-```bash
-cd scraper
-pip install -r requirements.txt
-python map_site.py
-```
-
-This crawls scoot.net and writes `scraper/output/gallery_full.json`. Takes several hours for all 1,147 rallies. Saves checkpoints every 25 rallies so it can be resumed.
-
-### 2. Build site data
-
-```bash
-python scraper/build_data.py
-```
-
-Reads `gallery_full.json`, writes `data/rallies/{slug}/` directories and `data/index.json`.
-
-### 3. Download images to R2 (optional — requires .env)
-
-```bash
-cd downloader
-pip install boto3 piexif requests python-dotenv
-python download.py --phase 1   # Resolve image URLs from scoot.net
-python download.py --phase 2   # Download + upload to Cloudflare R2
-```
-
-### 4. Run the site
-
-```bash
-cd site
-npm install
-npm run dev
-```
-
-Site runs at `http://localhost:4321`. Reads from `../data/` at build time.
+If you were there, you're in here somewhere.
 
 ---
 
-## Environment Variables
+## How This Works
 
-Create a `.env` file in the repo root (never committed):
+The technical version: Python scraper, Cloudflare hosting, static site generator, GitHub Pages.
 
-```ini
-CLOUDFLARE_API_TOKEN=...
-CLOUDFLARE_ACCOUNT_ID=...
-R2_BUCKET=nasa-archive
-R2_ACCESS_KEY_ID=...
-R2_SECRET_ACCESS_KEY=...
-R2_PUBLIC_URL=https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev
-```
+The version that matters: **We're copying everything before it disappears, and then we're letting the community make it better.**
 
-R2 credentials are created in the Cloudflare dashboard under R2 → Manage R2 API Tokens.
+You'll be able to:
+- **Claim your photos** — "That's me. I was there."
+- **Add stories** — What you remember about that weekend
+- **Correct the record** — Fix dates, names, places that got mixed up
+- **Add new rallies** — The ones happening now, the ones coming next
+- **Share patches** — Scan the ones you kept
 
----
-
-## Data Schema
-
-### `data/index.json`
-```json
-{
-  "rallies": 1147,
-  "total_photos_mapped": 85000,
-  "patches": 0,
-  "calendar_entries": 0,
-  "rallies_list": [...]
-}
-```
-
-### `data/rallies/{slug}/meta.json`
-```json
-{
-  "slug": "amerivespa2002",
-  "title": "Amerivespa 2002",
-  "year": 2002,
-  "month": 7,
-  "date_rally": "2002-07",
-  "photo_count": 312,
-  "url": "http://scoot.net/gallery/amerivespa2002/"
-}
-```
-
-### `data/rallies/{slug}/photos.json`
-```json
-[
-  {
-    "pic_id": "292230",
-    "pic_url": "http://scoot.net/gallery/pic.html?pic=292230",
-    "photographer": "Damn_Dirty_Dave",
-    "date_rally": "2002-07",
-    "date_exif": null,
-    "date_canonical": null,
-    "date_source": "rally_slug",
-    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/200207-Damn_Dirty_Dave/292230/thumb.jpg",
-    "r2_full": null
-  }
-]
-```
-
-**Date provenance system:**
-`date_rally` — extracted from slug, reliable
-`date_exif` — from image EXIF, stored but NOT trusted (camera clocks were unreliable)
-`date_canonical` — human-set, authoritative
-`date_source` — which field is authoritative (`rally_slug` | `exif` | `human`)
+The archive starts with what scoot.net saved. It grows with what *you* remember.
 
 ---
 
-## Deployment
+## The LLM Oral History Thing
 
-Pushes to `main` automatically build and deploy via GitHub Actions (`.github/workflows/deploy.yml`).
+Here's the part that sounds weird but will actually work:
 
-**GitHub Pages setup (one-time):**
-Settings → Pages → Source → GitHub Actions
+We're building a guided storytelling system that helps you remember and share what happened. Not a form. Not a survey. A conversation.
 
-**Custom domain:** Update `site/public/CNAME` with your domain, then add a CNAME DNS record pointing to `rudi193-cmd.github.io`.
+It'll ask you questions like:
+- "What rally was your first one?"
+- "What do you remember about the ride there?"
+- "Who did you meet that weekend that you still talk to?"
 
----
+And it'll remember what you said, so the next time you add a story, it already knows your context.
 
-## Planned Features
+Think of it like sitting around after a rally, except the thing listening doesn't forget and doesn't interrupt.
 
-- [ ] User authentication (Supabase — GitHub OAuth + email magic link)
-- [ ] Photo claiming — tag yourself, correct names/dates
-- [ ] Oral history LLM — guided story capture with per-user persistent memory
-- [ ] Interactive rally map — geographic pins for all past + upcoming rallies
-- [ ] User rally tracker — "where you've been, where you're going"
-- [ ] Upcoming rally calendar — community-submitted, sortable by region/date
-- [ ] Patch gallery — full R2-hosted patch image archive
-- [ ] Corporate sponsorship / PBS-style funding model
+Your stories get saved with the photos. The archive becomes the record not just of *what happened*, but of *what it meant*.
 
 ---
 
-## Contributing
+## Why This Matters
 
-Contributions to the archive data, site code, and community features are welcome. The archive belongs to the community that lived it.
+Because communities are held together by the stories they tell about themselves.
 
-Issues and PRs: [github.com/rudi193-cmd/nasa-archive](https://github.com/rudi193-cmd/nasa-archive)
+Because "remember when" only works if there's something to point at.
+
+Because scoot.net could go down tomorrow, and if it does, we lose the record of nearly twenty years of people going places together.
+
+Because you were there. And that should mean something more than a dead link and a fading memory.
+
+---
+
+## What You Can Do Right Now
+
+**If you have photos from rallies that aren't on scoot.net:** We want them.  
+**If you have patches we don't have scanned:** We want them.  
+**If you remember stories about rallies in the archive:** We want them.  
+**If you know someone who was part of this and might not know we're doing it:** Tell them.
+
+The archive belongs to everyone who was there.
+
+---
+
+## The Long Version (For People Who Want Details)
+
+The site is being built in phases:
+
+**Phase 1 (Current):** Scrape and preserve scoot.net gallery  
+**Phase 2:** Download and host all images permanently  
+**Phase 3:** Build the public site (browse, search, view)  
+**Phase 4:** Add user accounts (claim photos, add stories)  
+**Phase 5:** Oral history system  
+**Phase 6:** Ongoing rally calendar and new photo submissions  
+**Phase 7:** Patch gallery  
+
+Right now we're between Phase 1 and Phase 2. The mapper has run. The data structure is built. The images are next.
+
+---
+
+## Who's Building This
+
+Someone who was there.  
+Someone who remembers.  
+Someone who knows what gets lost when nobody writes it down.
+
+The code is open source. The archive will be community-owned. The history belongs to everyone who lived it.
+
+---
+
+## One More Thing
+
+If you're reading this and thinking *"I haven't thought about those rallies in years"* — good.
+
+Now you can go look at the photos and remember.
+
+That's why we're building this.
+
+---
+
+**Status:** Active development  
+**Launch:** When it's ready  
+**Contact:** [Issues on GitHub](https://github.com/rudi193-cmd/nasa-archive)
+
+*The library is always on fire. That's why we build things that survive it.*
