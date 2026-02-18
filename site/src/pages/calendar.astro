@@ -80,7 +80,8 @@ const past = entries.filter(e => (e.date_start || '') < today).sort((a, b) => a.
         ) : (
           <div class="space-y-2">
             {upcoming.map(e => (
-              <div class="border border-[#222] hover:border-[#CC4444] transition-colors p-4 flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-6">
+              <div class="calendar-row border border-[#222] hover:border-[#CC4444] transition-colors p-4 flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-6"
+                data-region={e.region || ''}>
                 <div class="text-[#CC4444] text-sm font-mono w-28 shrink-0">{e.date_start}</div>
                 <div class="flex-1">
                   <div class="text-[#f5f0e8] font-medium">{e.title}</div>
@@ -105,7 +106,8 @@ const past = entries.filter(e => (e.date_start || '') < today).sort((a, b) => a.
         </h2>
         <div class="space-y-2">
           {past.map(e => (
-            <div class="border border-[#222] hover:border-[#333] transition-colors p-4 flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-6">
+            <div class="calendar-row border border-[#222] hover:border-[#333] transition-colors p-4 flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-6"
+              data-region={e.region || ''}>
               <div class="text-[#666] text-sm font-mono w-28 shrink-0">{e.date_start}</div>
               <div class="flex-1">
                 <div class="text-[#888]">{e.title}</div>

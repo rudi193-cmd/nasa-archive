@@ -40,8 +40,17 @@ def load_patches():
 
 
 def load_calendar():
-    p = SCRAPER_OUT / "calendar.json"
-    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else []
+    """Load calendar from scraper output and community submissions, merged."""
+    entries = []
+    # Scraper output (historical scoot.net calendar)
+    scraped = SCRAPER_OUT / "calendar.json"
+    if scraped.exists():
+        entries += json.loads(scraped.read_text(encoding="utf-8"))
+    # Community submissions (committed to data/)
+    community = DATA_DIR / "calendar.json"
+    if community.exists():
+        entries += json.loads(community.read_text(encoding="utf-8"))
+    return entries
 
 
 def build_rally_files(rallies):
@@ -93,6 +102,7 @@ def build_index(rallies, patches, calendar):
         "patches": len(patches),
         "calendar_entries": len(calendar),
         "rallies_list": rallies_list,
+        "calendar_entries_list": calendar,
     }
 
     (DATA_DIR / "index.json").write_text(
