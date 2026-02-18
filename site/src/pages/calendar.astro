@@ -11,29 +11,26 @@ try {
   entries = raw.calendar_entries_list || [];
 } catch (e) {}
 
-// Region filter from query param
-const selectedRegion = Astro.url.searchParams.get('region') || 'all';
 const regions = [...new Set(entries.map(e => e.region).filter(Boolean))].sort();
-const filtered = selectedRegion === 'all' ? entries : entries.filter(e => e.region === selectedRegion);
 
-// Split into upcoming and past based on today's date
+// Split into upcoming and past based on today's date (client-side filtering handles region)
 const today = new Date().toISOString().slice(0, 10);
-const upcoming = filtered.filter(e => (e.date_start || '') >= today).sort((a, b) => a.date_start > b.date_start ? 1 : -1);
-const past = filtered.filter(e => (e.date_start || '') < today).sort((a, b) => a.date_start > b.date_start ? -1 : 1);
+const upcoming = entries.filter(e => (e.date_start || '') >= today).sort((a, b) => a.date_start > b.date_start ? 1 : -1);
+const past = entries.filter(e => (e.date_start || '') < today).sort((a, b) => a.date_start > b.date_start ? -1 : 1);
 ---
 <Base title="Calendar — NASA Archive">
   <div class="flex items-center justify-between mb-8 flex-wrap gap-4">
     <h1 class="text-2xl font-bold text-[#CC4444] uppercase tracking-widest">Calendar</h1>
-    <div class="flex gap-2 flex-wrap">
-      <a href="/calendar"
-        class={`px-3 py-1 text-xs border ${selectedRegion === 'all' ? 'border-[#CC4444] text-[#CC4444]' : 'border-[#444] text-[#666] hover:border-[#CC4444] hover:text-[#CC4444]'}`}>
+    <div class="flex gap-2 flex-wrap" id="region-filters">
+      <button data-region="all"
+        class="px-3 py-1 text-xs border region-btn border-[#CC4444] text-[#CC4444]">
         All Regions
-      </a>
+      </button>
       {regions.map(r => (
-        <a href={`/calendar?region=${encodeURIComponent(r)}`}
-          class={`px-3 py-1 text-xs border ${selectedRegion === r ? 'border-[#CC4444] text-[#CC4444]' : 'border-[#444] text-[#666] hover:border-[#CC4444] hover:text-[#CC4444]'}`}>
+        <button data-region={r}
+          class="px-3 py-1 text-xs border region-btn border-[#444] text-[#666] hover:border-[#CC4444] hover:text-[#CC4444]">
           {r}
-        </a>
+        </button>
       ))}
     </div>
   </div>
@@ -125,6 +122,46 @@ const past = filtered.filter(e => (e.date_start || '') < today).sort((a, b) => a
       </div>
     </div>
   )}
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    let selected = params.get('region') || 'all';
+
+    function applyFilter(region) {
+      selected = region;
+      const url = new URL(window.location.href);
+      if (region === 'all') {
+        url.searchParams.delete('region');
+      } else {
+        url.searchParams.set('region', region);
+      }
+      window.history.replaceState({}, '', url);
+
+      document.querySelectorAll('.calendar-row').forEach(row => {
+        const el = row as HTMLElement;
+        el.style.display = (region === 'all' || el.dataset.region === region) ? '' : 'none';
+      });
+
+      document.querySelectorAll('.region-btn').forEach(btn => {
+        const b = btn as HTMLElement;
+        const active = b.dataset.region === region;
+        b.className = `px-3 py-1 text-xs border region-btn ${
+          active
+            ? 'border-[#CC4444] text-[#CC4444]'
+            : 'border-[#444] text-[#666] hover:border-[#CC4444] hover:text-[#CC4444]'
+        }`;
+      });
+    }
+
+    applyFilter(selected);
+
+    document.querySelectorAll('.region-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const b = btn as HTMLElement;
+        applyFilter(b.dataset.region || 'all');
+      });
+    });
+  </script>
 
   <!-- Submit CTA always visible -->
   <div class="mt-12 border border-[#333] p-6 text-sm text-[#666]">
