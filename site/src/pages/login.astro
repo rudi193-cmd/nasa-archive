@@ -81,6 +81,7 @@ import Base from '../layouts/Base.astro';
       },
     });
     if (error) {
+      console.error('Magic link error:', error);
       showMessage(error.message, true);
     } else {
       showMessage(`Magic link sent to ${email} — check your inbox.`);

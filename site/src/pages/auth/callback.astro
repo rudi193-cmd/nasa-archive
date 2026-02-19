@@ -11,23 +11,29 @@ import Base from '../../layouts/Base.astro';
 <script>
   import { supabase } from '../../lib/supabase';
 
-  // Handle the OAuth/magic link callback
+  const status = document.getElementById('status')!;
+  const next = new URLSearchParams(window.location.search).get('next') || '/';
+
+  // With flowType: 'implicit', Supabase parses #access_token from the URL hash on init.
+  // onAuthStateChange fires SIGNED_IN once the session is established.
   supabase.auth.onAuthStateChange((event, session) => {
     if (event === 'SIGNED_IN' && session) {
-      // Redirect to where they came from, or homepage
-      const next = new URLSearchParams(window.location.search).get('next') || '/';
       window.location.href = next;
     } else if (event === 'SIGNED_OUT') {
       window.location.href = '/login';
     }
   });
 
-  // Also handle hash fragment from magic links
+  // Also check for an already-established session (e.g., page refresh)
   const { data, error } = await supabase.auth.getSession();
   if (error) {
-    document.getElementById('status')!.textContent = 'Sign in failed — ' + error.message;
+    status.textContent = 'Sign in failed — ' + error.message;
+    console.error('Auth error:', error);
   } else if (data.session) {
-    const next = new URLSearchParams(window.location.search).get('next') || '/';
     window.location.href = next;
+  } else if (!window.location.hash) {
+    // No hash, no session, no error — probably landed here directly
+    status.textContent = 'No session found. Redirecting...';
+    setTimeout(() => { window.location.href = '/login'; }, 2000);
   }
 </script>
