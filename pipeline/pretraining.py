@@ -33,9 +33,24 @@ import requests
 from bs4 import BeautifulSoup
 from supabase import create_client, Client
 
-# Willow free fleet
-sys.path.insert(0, str(Path(__file__).parent.parent.parent / "Willow" / "core"))
-import llm_router
+# Willow fleet API — calls Willow server instead of importing core directly
+import requests as _fleet_requests
+
+WILLOW_FLEET_URL = "http://localhost:8420/api/fleet/ask"
+
+def _fleet_ask(prompt: str, tier: str = "free"):
+    """Call Willow's fleet endpoint."""
+    try:
+        r = _fleet_requests.post(WILLOW_FLEET_URL, json={"prompt": prompt, "tier": tier, "source": "nasa-archive"}, timeout=60)
+        if r.status_code == 200:
+            data = r.json()
+            class _R:
+                content = data.get("response", "")
+                provider = data.get("provider", "unknown")
+            return _R()
+    except Exception:
+        pass
+    return None
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 log = logging.getLogger("pretraining")
@@ -104,7 +119,7 @@ class PreTrainingPipeline:
         url = os.environ["SUPABASE_URL"]
         key = os.environ["SUPABASE_SERVICE_ROLE_KEY"]  # service role needed for inserts
         self.db: Client = create_client(url, key)
-        llm_router.load_keys_from_json()
+        # keys managed by Willow server
 
     # ─── Source: scoot.net rally metadata ─────────────────────────────────────
 
@@ -315,7 +330,7 @@ class PreTrainingPipeline:
         """Call the Willow free fleet with exponential backoff."""
         for attempt in range(retries):
             try:
-                resp = llm_router.ask(prompt, preferred_tier="free")
+                resp = _fleet_ask(prompt, tier="free")
                 if resp:
                     return resp.content
             except Exception as e:
