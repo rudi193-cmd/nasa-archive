@@ -57,6 +57,26 @@ const dateLabel = meta.date_rally || (meta.year ? String(meta.year) : 'Unknown d
       <span>{Object.keys(byPhotographer).length} photographers</span>
       {meta.date_exif && <span class="text-[#444] text-xs">EXIF dates preserved but not verified</span>}
     </div>
+
+    <!-- Album-level actions -->
+    <div class="flex flex-wrap gap-3 mt-5" id="album-claim-section">
+      <button id="claim-attendee"
+        class="border border-[#333] text-[#555] px-4 py-2 text-xs uppercase tracking-wider hover:border-[#CC4444] hover:text-[#CC4444] transition-colors">
+        I Was There
+      </button>
+      <button id="claim-originator"
+        class="border border-[#333] text-[#555] px-4 py-2 text-xs uppercase tracking-wider hover:border-[#CC4444] hover:text-[#CC4444] transition-colors">
+        I Shot These Photos
+      </button>
+      <button id="download-album"
+        class="border border-[#333] text-[#555] px-4 py-2 text-xs uppercase tracking-wider hover:border-[#CC4444] hover:text-[#CC4444] transition-colors">
+        ↓ Download Rally Data
+      </button>
+      <button id="end-session"
+        class="border border-[#CC4444] text-[#CC4444] px-4 py-2 text-xs uppercase tracking-wider hover:bg-[#CC4444] hover:text-white transition-colors hidden">
+        Done — Contribute
+      </button>
+    </div>
   </div>
 
   {photos.length === 0 ? (
@@ -79,40 +99,48 @@ const dateLabel = meta.date_rally || (meta.year ? String(meta.year) : 'Unknown d
 
           <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-2">
             {pics.map(photo => (
-              <a
-                href={photo.r2_thumb || photo.source_url || photo.pic_url}
-                target="_blank"
-                rel="noopener"
-                class="group relative aspect-square bg-[#111] border border-[#222] hover:border-[#CC4444] transition-colors overflow-hidden"
+              <div
+                class="group relative aspect-square bg-[#111] border border-[#222] hover:border-[#CC4444] transition-colors overflow-hidden photo-card"
+                data-pic-id={photo.pic_id}
+                data-pic-url={photo.r2_thumb || photo.pic_url}
                 title={photo.alt || `Photo ${photo.pic_id}`}
               >
                 {photo.r2_thumb ? (
-                  <img
-                    src={photo.r2_thumb}
-                    alt={photo.alt || ''}
-                    class="w-full h-full object-cover group-hover:opacity-80 transition-opacity"
-                    loading="lazy"
-                  />
+                  <a href={photo.r2_thumb} target="_blank" rel="noopener">
+                    <img
+                      src={photo.r2_thumb}
+                      alt={photo.alt || ''}
+                      class="w-full h-full object-cover group-hover:opacity-60 transition-opacity"
+                      loading="lazy"
+                    />
+                  </a>
                 ) : (
-                  <!-- Not yet downloaded — link to original scoot.net -->
                   <div class="w-full h-full flex items-center justify-center">
-                    <a
-                      href={photo.pic_url}
-                      target="_blank"
-                      class="text-[#444] text-xs text-center px-2 hover:text-[#CC4444]"
-                    >
+                    <a href={photo.pic_url} target="_blank" class="text-[#444] text-xs text-center px-2 hover:text-[#CC4444]">
                       #{photo.pic_id}
                     </a>
                   </div>
                 )}
 
-                <!-- Claim indicator -->
+                <!-- Tag me button (hover) -->
+                <button
+                  class="tag-btn absolute top-1 right-1 bg-[#CC4444] text-white px-2 py-1 text-xs uppercase tracking-wider opacity-0 group-hover:opacity-100 transition-opacity hover:bg-[#aa3333]"
+                  data-pic-id={photo.pic_id}
+                  data-pic-url={photo.r2_thumb || photo.pic_url}>
+                  Tag me
+                </button>
+
+                <!-- Tagged indicator -->
+                <div class="tag-indicator absolute top-0 left-0 right-0 bg-[#CC4444] text-white text-xs py-0.5 text-center hidden pointer-events-none"
+                  data-for={photo.pic_id}>◆ You</div>
+
+                <!-- Community claim indicator -->
                 {photo.claims?.length > 0 && (
-                  <div class="absolute bottom-0 left-0 right-0 bg-[#CC4444] text-white text-xs py-0.5 text-center">
+                  <div class="absolute bottom-0 left-0 right-0 bg-[#CC4444]/70 text-white text-xs py-0.5 text-center">
                     {photo.claims.length} claimed
                   </div>
                 )}
-              </a>
+              </div>
             ))}
           </div>
         </div>
@@ -234,6 +262,32 @@ const dateLabel = meta.date_rally || (meta.year ? String(meta.year) : 'Unknown d
     </div>
   </div>
 
+  <!-- Session End / Contribute Modal -->
+  <div id="session-end-modal"
+    class="fixed inset-0 bg-black/90 z-50 hidden items-center justify-center"
+    role="dialog" aria-modal="true">
+    <div class="bg-[#0a0a0a] border border-[#CC4444] max-w-md w-full mx-4 p-6">
+      <div class="text-[#CC4444] text-xs uppercase tracking-widest mb-4">◆ Session Complete</div>
+      <h3 class="text-[#f5f0e8] font-medium mb-3">You've contributed to the archive.</h3>
+      <div id="session-summary" class="text-[#888] text-sm mb-5 space-y-1"></div>
+      <p class="text-[#666] text-sm mb-6">
+        Would you like to upload your tags, claims, and conversation to the community archive?
+        Your session file will download either way.
+      </p>
+      <div class="flex gap-3">
+        <button id="contribute-yes"
+          class="bg-[#CC4444] text-white px-6 py-3 text-xs uppercase tracking-wider hover:bg-[#aa3333] transition-colors flex-1">
+          Contribute & Download
+        </button>
+        <button id="contribute-no"
+          class="border border-[#333] text-[#555] px-6 py-3 text-xs uppercase tracking-wider hover:border-[#666] transition-colors">
+          Just Download
+        </button>
+      </div>
+      <div id="contribute-status" class="mt-4 text-xs text-[#555] hidden"></div>
+    </div>
+  </div>
+
   <!-- AI Oral History Chat Panel -->
   <div id="chat-panel"
     class="fixed bottom-0 right-0 w-full sm:w-[420px] bg-[#0a0a0a] border-t border-l border-[#CC4444] z-40 hidden"
@@ -243,7 +297,13 @@ const dateLabel = meta.date_rally || (meta.year ? String(meta.year) : 'Unknown d
         <span class="text-[#CC4444] text-xs uppercase tracking-widest font-medium">NASA Oral Historian</span>
         <span class="text-[#444] text-xs ml-2">AI · your words, your archive</span>
       </div>
-      <button id="close-chat-panel" class="text-[#555] hover:text-[#f5f0e8]">✕</button>
+      <div class="flex items-center gap-3">
+        <button id="save-chat"
+          class="text-[#555] text-xs uppercase tracking-wider hover:text-[#CC4444] transition-colors">
+          Save
+        </button>
+        <button id="close-chat-panel" class="text-[#555] hover:text-[#f5f0e8]">✕</button>
+      </div>
     </div>
 
     <!-- Message history -->
@@ -272,6 +332,145 @@ const dateLabel = meta.date_rally || (meta.year ? String(meta.year) : 'Unknown d
 <script>
   import { supabase } from '../../lib/supabase';
   const slug = (document.getElementById('oral-history-root') as HTMLElement)?.dataset.slug ?? '';
+  const rallyTitle = document.querySelector('h1')?.textContent ?? slug;
+
+  // ── Session state ────────────────────────────────────────────
+  interface NasaSession {
+    type: 'nasa_memory';
+    version: '1.0';
+    rally: string;
+    rally_title: string;
+    session_id: string;
+    timestamp: string;
+    photos_tagged: { pic_id: string; pic_url: string }[];
+    album_claim: 'attendee' | 'originator' | null;
+    oral_history: { role: 'user' | 'assistant'; content: string }[];
+    contributed: boolean;
+  }
+
+  const session: NasaSession = {
+    type: 'nasa_memory',
+    version: '1.0',
+    rally: slug,
+    rally_title: rallyTitle,
+    session_id: `${slug}-${Date.now()}`,
+    timestamp: new Date().toISOString(),
+    photos_tagged: [],
+    album_claim: null,
+    oral_history: [],
+    contributed: false,
+  };
+
+  function hasActivity() {
+    return session.photos_tagged.length > 0 || session.album_claim !== null || session.oral_history.length > 0;
+  }
+
+  function showEndSessionBtn() {
+    if (hasActivity()) document.getElementById('end-session')?.classList.remove('hidden');
+  }
+
+  function downloadJson(data: object, filename: string) {
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = filename;
+    a.click();
+    URL.revokeObjectURL(a.href);
+  }
+
+  // ── Photo tagging ────────────────────────────────────────────
+  document.querySelectorAll<HTMLButtonElement>('.tag-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const picId = btn.dataset.picId!;
+      const picUrl = btn.dataset.picUrl ?? '';
+
+      if (session.photos_tagged.find(p => p.pic_id === picId)) return; // already tagged
+      session.photos_tagged.push({ pic_id: picId, pic_url: picUrl });
+
+      // Visual feedback
+      const indicator = document.querySelector<HTMLElement>(`.tag-indicator[data-for="${picId}"]`);
+      indicator?.classList.remove('hidden');
+      btn.textContent = '✓';
+      btn.disabled = true;
+
+      showEndSessionBtn();
+    });
+  });
+
+  // ── Album claims ─────────────────────────────────────────────
+  document.getElementById('claim-attendee')?.addEventListener('click', () => {
+    session.album_claim = 'attendee';
+    const btn = document.getElementById('claim-attendee') as HTMLButtonElement;
+    btn.textContent = '◆ I Was There';
+    btn.classList.add('border-[#CC4444]', 'text-[#CC4444]');
+    document.getElementById('claim-originator')?.setAttribute('disabled', 'true');
+    showEndSessionBtn();
+  });
+
+  document.getElementById('claim-originator')?.addEventListener('click', () => {
+    session.album_claim = 'originator';
+    const btn = document.getElementById('claim-originator') as HTMLButtonElement;
+    btn.textContent = '◆ I Shot These Photos';
+    btn.classList.add('border-[#CC4444]', 'text-[#CC4444]');
+    document.getElementById('claim-attendee')?.setAttribute('disabled', 'true');
+    showEndSessionBtn();
+  });
+
+  // ── Download rally data ──────────────────────────────────────
+  document.getElementById('download-album')?.addEventListener('click', () => {
+    downloadJson({ rally: slug, title: rallyTitle, timestamp: new Date().toISOString() }, `nasa-rally-${slug}.json`);
+  });
+
+  // ── End session modal ────────────────────────────────────────
+  const sessionModal = document.getElementById('session-end-modal')!;
+
+  document.getElementById('end-session')?.addEventListener('click', () => {
+    // Build summary
+    const summary = document.getElementById('session-summary')!;
+    const lines: string[] = [];
+    if (session.photos_tagged.length) lines.push(`${session.photos_tagged.length} photo${session.photos_tagged.length > 1 ? 's' : ''} tagged`);
+    if (session.album_claim) lines.push(`Album claim: ${session.album_claim}`);
+    if (session.oral_history.length) lines.push(`${Math.ceil(session.oral_history.length / 2)} oral history exchange${session.oral_history.length > 2 ? 's' : ''}`);
+    summary.innerHTML = lines.map(l => `<div>◆ ${l}</div>`).join('');
+
+    sessionModal.classList.remove('hidden');
+    sessionModal.classList.add('flex');
+  });
+
+  document.getElementById('contribute-no')?.addEventListener('click', () => {
+    downloadJson(session, `nasa-memory-${slug}-${Date.now()}.json`);
+    sessionModal.classList.add('hidden');
+    sessionModal.classList.remove('flex');
+  });
+
+  document.getElementById('contribute-yes')?.addEventListener('click', async () => {
+    const statusEl = document.getElementById('contribute-status')!;
+    statusEl.textContent = 'Uploading...';
+    statusEl.classList.remove('hidden');
+
+    try {
+      const { data: { user } } = await supabase.auth.getUser();
+      await supabase.from('nasa_contributions').insert({
+        rally_slug: slug,
+        user_id: user?.id ?? null,
+        photos_tagged: session.photos_tagged,
+        album_claim: session.album_claim,
+        oral_history: session.oral_history,
+        contributed_at: new Date().toISOString(),
+      });
+      session.contributed = true;
+      statusEl.textContent = 'Contributed. Thank you.';
+    } catch (err) {
+      statusEl.textContent = 'Upload failed — downloading locally only.';
+    }
+
+    downloadJson({ ...session, contributed: session.contributed }, `nasa-memory-${slug}-${Date.now()}.json`);
+    setTimeout(() => {
+      sessionModal.classList.add('hidden');
+      sessionModal.classList.remove('flex');
+    }, 1500);
+  });
 
   // ── Story panel open/close ──────────────────────────────────
   const panel = document.getElementById('story-panel');
@@ -472,6 +671,8 @@ const dateLabel = meta.date_rally || (meta.year ? String(meta.year) : 'Unknown d
 
       appendMessage('assistant', reply);
       chatHistory.push({ role: 'assistant', content: reply });
+      session.oral_history = [...chatHistory];
+      showEndSessionBtn();
     } catch {
       appendMessage('assistant', 'Connection error. The historian will be back shortly.');
     }
@@ -484,5 +685,12 @@ const dateLabel = meta.date_rally || (meta.year ? String(meta.year) : 'Unknown d
   chatSend.addEventListener('click', sendChat);
   chatInput.addEventListener('keydown', (e) => {
     if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); sendChat(); }
+  });
+
+  // Save chat as JSON
+  document.getElementById('save-chat')?.addEventListener('click', () => {
+    if (chatHistory.length === 0) return;
+    session.oral_history = [...chatHistory];
+    downloadJson({ ...session }, `nasa-oral-history-${slug}-${Date.now()}.json`);
   });
 </script>
