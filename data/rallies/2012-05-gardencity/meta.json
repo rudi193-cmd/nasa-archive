@@ -5,5 +5,18 @@
   "year": 2012,
   "month": 5,
   "date_rally": "2012-05",
-  "photo_count": 66
+  "photo_count": 66,
+  "description": "Scooter rally organized by the Shaken Not Stirred scooter group.",
+  "hosting_club": "Shaken Not Stirred",
+  "city": "Garden City",
+  "state_province": "New York",
+  "country": "US",
+  "notable_facts": [
+    "Sponsored by American Eurosport, a scooter retailer, at their showroom in Garden City, NY"
+  ],
+  "related_clubs": [],
+  "source_confidence": "high",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:18:57Z",
+  "enriched_provider": "Cerebras3"
 }

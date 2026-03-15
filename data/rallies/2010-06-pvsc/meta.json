@@ -5,5 +5,15 @@
   "year": 2010,
   "month": 6,
   "date_rally": "2010-06",
-  "photo_count": 815
+  "photo_count": 815,
+  "description": "Photos and information about the PVSC Band Camp 11 scooter rally.",
+  "hosting_club": "PVSC",
+  "country": "US",
+  "recurring": false,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "high",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:14:45Z",
+  "enriched_provider": "Novita"
 }

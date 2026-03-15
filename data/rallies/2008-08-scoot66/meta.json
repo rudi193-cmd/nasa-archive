@@ -5,5 +5,22 @@
   "year": 2008,
   "month": 8,
   "date_rally": "2008-08",
-  "photo_count": 205
+  "photo_count": 205,
+  "stories": [],
+  "description": "A scooter rally organized to celebrate the freedom of the open road, similar to the iconic motorcycle ride from the classic 1969 movie 'Easy Rider'. The event likely brought together scooter enthusiasts from across North America, showcasing their love for custom rides and community spirit.",
+  "city": "null",
+  "state_province": "null",
+  "country": "null",
+  "recurring": false,
+  "notable_facts": [
+    "Held in August 2008",
+    "Part of scoop.net's gallery for the year"
+  ],
+  "related_clubs": [
+    "null"
+  ],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:05:35Z",
+  "enriched_provider": "Cerebras3"
 }

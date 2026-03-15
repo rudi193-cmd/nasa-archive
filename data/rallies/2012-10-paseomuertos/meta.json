@@ -5,5 +5,11 @@
   "year": 2012,
   "month": 10,
   "date_rally": "2012-10",
-  "photo_count": 16
+  "photo_count": 16,
+  "city": "null",
+  "recurring": false,
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:19:26Z",
+  "enriched_provider": "Cerebras"
 }

@@ -5,5 +5,18 @@
   "year": 2014,
   "month": 5,
   "date_rally": "2014-05",
-  "photo_count": 29
+  "photo_count": 29,
+  "lat": 38.57381,
+  "lng": -109.546214,
+  "description": "Scoot Moab was a scooter rally in Moab, Utah, featuring off-road and scenic rides, as well as social activities.",
+  "city": "Moab",
+  "state_province": "Utah",
+  "country": "US",
+  "recurring": true,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "medium",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:20:11Z",
+  "enriched_provider": "Novita"
 }

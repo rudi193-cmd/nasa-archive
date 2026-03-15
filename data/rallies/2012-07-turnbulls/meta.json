@@ -5,5 +5,11 @@
   "year": 2012,
   "month": 7,
   "date_rally": "2012-07",
-  "photo_count": 98
+  "photo_count": 98,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:19:44Z",
+  "enriched_provider": "Cerebras3"
 }

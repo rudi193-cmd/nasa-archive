@@ -5,5 +5,13 @@
   "year": 2010,
   "month": 9,
   "date_rally": "2010-09",
-  "photo_count": 46
+  "photo_count": 46,
+  "description": "A motor scooter gathering held in the Ozark Mountains region.",
+  "country": "US",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:15:28Z",
+  "enriched_provider": "Cerebras3"
 }

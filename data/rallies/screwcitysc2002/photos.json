@@ -6,7 +6,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9871/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9872",
@@ -15,7 +18,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9872/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9873",
@@ -24,7 +30,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9873/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9874",
@@ -33,7 +42,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9874/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9875",
@@ -42,7 +54,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9875/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9876",
@@ -51,7 +66,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9876/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9877",
@@ -60,7 +78,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9877/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9878",
@@ -69,7 +90,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9878/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9879",
@@ -78,7 +102,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9879/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9880",
@@ -87,412 +114,775 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Chad/9880/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9490",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9490&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 22:03:57",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9490/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 22:03:57",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9491",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9491&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 22:02:28",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9491/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 22:02:28",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9492",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9492&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 22:02:32",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9492/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 22:02:32",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9493",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9493&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 22:04:33",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9493/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 22:04:33",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9494",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9494&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 22:18:08",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9494/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 22:18:08",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9495",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9495&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 22:33:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9495/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 22:33:00",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9496",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9496&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 23:04:45",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9496/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 23:04:45",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9497",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9497&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 23:29:43",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9497/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 23:29:43",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9498",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9498&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 23:37:01",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9498/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 23:37:01",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9499",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9499&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:13 23:41:48",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9499/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:13 23:41:48",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9500",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9500&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 05:36:13",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9500/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 05:36:13",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9501",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9501&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 05:39:18",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9501/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 05:39:18",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9502",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9502&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 05:39:34",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9502/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 05:39:34",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9503",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9503&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 05:40:32",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9503/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 05:40:32",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9504",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9504&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 05:58:12",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9504/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 05:58:12",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9505",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9505&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 05:58:16",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9505/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 05:58:16",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9506",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9506&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 05:58:21",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9506/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 05:58:21",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9507",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9507&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 06:01:28",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9507/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 06:01:28",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9508",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9508&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 08:12:56",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9508/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 08:12:56",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9509",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9509&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 08:33:30",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9509/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 08:33:30",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9510",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9510&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 08:39:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9510/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 08:39:10",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9511",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9511&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 08:52:45",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9511/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 08:52:45",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9512",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9512&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 08:53:27",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9512/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 08:53:27",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9513",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9513&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 08:57:19",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9513/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 08:57:19",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9514",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9514&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 09:00:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9514/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 09:00:39",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9567",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9567&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 09:16:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9567/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 09:16:39",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9568",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9568&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:06:25",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9568/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:06:25",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9569",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9569&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:21:56",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9569/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:21:56",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9570",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9570&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:22:08",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9570/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:22:08",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9571",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9571&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:22:29",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9571/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:22:29",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9572",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9572&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:22:54",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9572/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:22:54",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9573",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9573&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:22:57",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9573/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:22:57",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9574",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9574&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:23:03",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9574/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:23:03",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9575",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9575&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:27:03",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9575/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:27:03",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9576",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9576&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:28:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9576/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:28:39",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9577",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9577&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:29:04",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9577/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:29:04",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9578",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9578&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 10:29:22",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9578/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 10:29:22",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9579",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9579&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 22:17:44",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9579/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 22:17:44",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9580",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9580&b=screwcitysc2002/bryan_noise/tinyindex.html",
     "photographer": "bryan_noise",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2000:01:14 22:19:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-bryan_noise/9580/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2000:01:14 22:19:10",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9647",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9647&b=screwcitysc2002/rye/tinyindex.html",
     "photographer": "rye",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:07:14 08:27:49",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-rye/9647/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:07:14 08:27:49",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9648",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9648&b=screwcitysc2002/rye/tinyindex.html",
     "photographer": "rye",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:07:14 08:28:22",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-rye/9648/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:07:14 08:28:22",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9649",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9649&b=screwcitysc2002/rye/tinyindex.html",
     "photographer": "rye",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:07:14 08:28:41",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-rye/9649/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:07:14 08:28:41",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9650",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9650&b=screwcitysc2002/rye/tinyindex.html",
     "photographer": "rye",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:07:14 08:29:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-rye/9650/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:07:14 08:29:10",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9651",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9651&b=screwcitysc2002/rye/tinyindex.html",
     "photographer": "rye",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:07:14 08:29:31",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-rye/9651/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:07:14 08:29:31",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9652",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=9652&b=screwcitysc2002/rye/tinyindex.html",
     "photographer": "rye",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:07:14 08:29:49",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-rye/9652/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:07:14 08:29:49",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "9913",
@@ -501,7 +891,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9913/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9914",
@@ -510,7 +903,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9914/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9915",
@@ -519,7 +915,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9915/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9916",
@@ -528,7 +927,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9916/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9917",
@@ -537,7 +939,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9917/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9918",
@@ -546,7 +951,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9918/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9919",
@@ -555,7 +963,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9919/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9920",
@@ -564,7 +975,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9920/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9921",
@@ -573,7 +987,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9921/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9922",
@@ -582,7 +999,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9922/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9923",
@@ -591,7 +1011,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9923/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9924",
@@ -600,7 +1023,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9924/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9925",
@@ -609,7 +1035,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9925/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9926",
@@ -618,7 +1047,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9926/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9927",
@@ -627,7 +1059,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9927/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9928",
@@ -636,7 +1071,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9928/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9929",
@@ -645,7 +1083,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9929/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9930",
@@ -654,7 +1095,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9930/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9931",
@@ -663,7 +1107,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9931/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9932",
@@ -672,7 +1119,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9932/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9933",
@@ -681,7 +1131,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9933/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9934",
@@ -690,7 +1143,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9934/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9935",
@@ -699,7 +1155,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9935/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9936",
@@ -708,7 +1167,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9936/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9937",
@@ -717,7 +1179,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9937/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9938",
@@ -726,7 +1191,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9938/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9939",
@@ -735,7 +1203,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9939/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9940",
@@ -744,7 +1215,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9940/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9941",
@@ -753,7 +1227,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9941/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9942",
@@ -762,7 +1239,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9942/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9943",
@@ -771,7 +1251,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9943/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9944",
@@ -780,7 +1263,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9944/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9945",
@@ -789,7 +1275,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9945/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9946",
@@ -798,7 +1287,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9946/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9947",
@@ -807,7 +1299,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9947/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9948",
@@ -816,7 +1311,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9948/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9949",
@@ -825,7 +1323,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9949/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9950",
@@ -834,7 +1335,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9950/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9951",
@@ -843,7 +1347,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9951/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9952",
@@ -852,7 +1359,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9952/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9953",
@@ -861,7 +1371,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9953/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9954",
@@ -870,7 +1383,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9954/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9955",
@@ -879,7 +1395,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9955/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9956",
@@ -888,7 +1407,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9956/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9957",
@@ -897,7 +1419,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9957/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9958",
@@ -906,7 +1431,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9958/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9959",
@@ -915,7 +1443,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9959/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9960",
@@ -924,7 +1455,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9960/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9961",
@@ -933,7 +1467,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9961/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9962",
@@ -942,7 +1479,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9962/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9963",
@@ -951,7 +1491,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9963/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9964",
@@ -960,7 +1503,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9964/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9965",
@@ -969,7 +1515,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9965/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9966",
@@ -978,7 +1527,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Jedi_Matt/9966/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9465",
@@ -987,7 +1539,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9465/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9466",
@@ -996,7 +1551,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9466/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9467",
@@ -1005,7 +1563,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9467/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9468",
@@ -1014,7 +1575,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9468/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9469",
@@ -1023,7 +1587,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9469/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9470",
@@ -1032,7 +1599,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9470/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9471",
@@ -1041,7 +1611,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9471/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9472",
@@ -1050,7 +1623,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9472/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9473",
@@ -1059,7 +1635,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9473/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9474",
@@ -1068,7 +1647,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9474/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9475",
@@ -1077,7 +1659,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9475/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9476",
@@ -1086,7 +1671,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9476/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9477",
@@ -1095,7 +1683,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9477/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9478",
@@ -1104,7 +1695,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9478/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9479",
@@ -1113,7 +1707,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9479/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9480",
@@ -1122,7 +1719,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9480/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9481",
@@ -1131,7 +1731,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9481/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9482",
@@ -1140,7 +1743,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9482/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9483",
@@ -1149,7 +1755,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9483/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9484",
@@ -1158,7 +1767,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9484/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9485",
@@ -1167,7 +1779,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9485/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9486",
@@ -1176,7 +1791,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9486/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9487",
@@ -1185,7 +1803,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9487/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9488",
@@ -1194,7 +1815,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9488/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9489",
@@ -1203,7 +1827,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9489/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9515",
@@ -1212,7 +1839,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9515/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9516",
@@ -1221,7 +1851,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9516/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9517",
@@ -1230,7 +1863,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9517/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9518",
@@ -1239,7 +1875,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9518/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9519",
@@ -1248,7 +1887,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9519/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9520",
@@ -1257,7 +1899,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9520/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9521",
@@ -1266,7 +1911,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9521/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9522",
@@ -1275,7 +1923,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9522/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9523",
@@ -1284,7 +1935,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9523/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9524",
@@ -1293,7 +1947,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9524/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9525",
@@ -1302,7 +1959,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9525/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9526",
@@ -1311,7 +1971,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9526/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9527",
@@ -1320,7 +1983,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9527/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9528",
@@ -1329,7 +1995,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9528/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9529",
@@ -1338,7 +2007,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9529/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9530",
@@ -1347,7 +2019,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9530/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9531",
@@ -1356,7 +2031,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9531/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9532",
@@ -1365,7 +2043,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9532/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9533",
@@ -1374,7 +2055,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9533/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9534",
@@ -1383,7 +2067,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9534/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9535",
@@ -1392,7 +2079,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9535/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9536",
@@ -1401,7 +2091,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9536/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9537",
@@ -1410,7 +2103,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9537/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9538",
@@ -1419,7 +2115,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9538/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9539",
@@ -1428,7 +2127,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9539/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9540",
@@ -1437,7 +2139,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9540/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9541",
@@ -1446,7 +2151,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9541/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9542",
@@ -1455,7 +2163,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9542/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9543",
@@ -1464,7 +2175,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9543/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9544",
@@ -1473,7 +2187,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9544/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9545",
@@ -1482,7 +2199,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9545/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9546",
@@ -1491,7 +2211,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9546/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9547",
@@ -1500,7 +2223,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9547/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9548",
@@ -1509,7 +2235,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9548/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9549",
@@ -1518,7 +2247,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9549/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9550",
@@ -1527,7 +2259,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9550/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9551",
@@ -1536,7 +2271,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9551/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9552",
@@ -1545,7 +2283,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9552/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9553",
@@ -1554,7 +2295,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9553/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9554",
@@ -1563,7 +2307,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9554/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9555",
@@ -1572,7 +2319,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9555/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9556",
@@ -1581,7 +2331,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9556/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9557",
@@ -1590,7 +2343,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9557/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9558",
@@ -1599,7 +2355,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9558/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9559",
@@ -1608,7 +2367,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9559/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9560",
@@ -1617,7 +2379,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9560/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9561",
@@ -1626,7 +2391,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9561/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9562",
@@ -1635,7 +2403,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9562/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9563",
@@ -1644,7 +2415,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9563/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9564",
@@ -1653,7 +2427,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9564/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9565",
@@ -1662,7 +2439,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9565/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "9566",
@@ -1671,7 +2451,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-chrissy_barr/9566/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11229",
@@ -1680,7 +2463,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11229/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11230",
@@ -1689,7 +2475,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11230/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11231",
@@ -1698,7 +2487,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11231/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11232",
@@ -1707,7 +2499,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11232/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11233",
@@ -1716,7 +2511,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11233/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11234",
@@ -1725,7 +2523,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11234/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11235",
@@ -1734,7 +2535,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11235/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11236",
@@ -1743,7 +2547,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11236/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11237",
@@ -1752,7 +2559,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11237/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11238",
@@ -1761,7 +2571,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11238/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11239",
@@ -1770,7 +2583,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11239/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11240",
@@ -1779,7 +2595,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11240/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11241",
@@ -1788,7 +2607,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11241/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11242",
@@ -1797,7 +2619,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11242/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11243",
@@ -1806,7 +2631,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11243/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11244",
@@ -1815,7 +2643,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11244/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11245",
@@ -1824,7 +2655,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11245/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11246",
@@ -1833,7 +2667,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11246/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11247",
@@ -1842,7 +2679,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11247/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11248",
@@ -1851,7 +2691,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11248/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11249",
@@ -1860,7 +2703,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11249/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11250",
@@ -1869,7 +2715,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11250/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11251",
@@ -1878,7 +2727,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11251/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11252",
@@ -1887,7 +2739,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11252/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11253",
@@ -1896,7 +2751,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11253/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11254",
@@ -1905,7 +2763,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11254/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11255",
@@ -1914,7 +2775,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11255/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11256",
@@ -1923,7 +2787,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11256/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11257",
@@ -1932,7 +2799,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11257/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11258",
@@ -1941,7 +2811,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11258/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11259",
@@ -1950,7 +2823,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11259/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11260",
@@ -1959,7 +2835,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11260/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11261",
@@ -1968,7 +2847,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11261/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11262",
@@ -1977,7 +2859,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11262/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "11263",
@@ -1986,6 +2871,9 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-mykr/11263/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   }
 ]

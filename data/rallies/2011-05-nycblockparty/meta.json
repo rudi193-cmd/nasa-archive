@@ -5,5 +5,15 @@
   "year": 2011,
   "month": 5,
   "date_rally": "2011-05",
-  "photo_count": 0
+  "photo_count": 0,
+  "lat": 40.712728,
+  "lng": -74.006015,
+  "country": "United States",
+  "recurring": false,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:17:29Z",
+  "enriched_provider": "Cerebras"
 }

@@ -5,5 +5,15 @@
   "year": null,
   "month": null,
   "date_rally": null,
-  "photo_count": 0
+  "photo_count": 0,
+  "lat": 40.972408,
+  "lng": -112.211243,
+  "city": "Syracuse",
+  "state_province": "Utah",
+  "country": "US",
+  "recurring": false,
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:23:25Z",
+  "enriched_provider": "Novita"
 }

@@ -5,5 +5,13 @@
   "year": 2010,
   "month": 8,
   "date_rally": "2010-08",
-  "photo_count": 425
+  "photo_count": 425,
+  "description": "Information and photos from the Resurgence 2 scooter rally can be found on Scoot.net, with pictures from August 2010.",
+  "recurring": false,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:14:56Z",
+  "enriched_provider": "Cerebras2"
 }

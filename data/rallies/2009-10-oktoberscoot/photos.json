@@ -6,7 +6,10 @@
     "date_rally": "2009-10",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/200910-bill_metteer/390567/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "390568",
@@ -15,7 +18,10 @@
     "date_rally": "2009-10",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/200910-bill_metteer/390568/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "390569",
@@ -24,7 +30,10 @@
     "date_rally": "2009-10",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/200910-bill_metteer/390569/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "390570",
@@ -33,6 +42,9 @@
     "date_rally": "2009-10",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/200910-bill_metteer/390570/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   }
 ]

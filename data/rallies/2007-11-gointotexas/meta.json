@@ -5,5 +5,18 @@
   "year": 2007,
   "month": 11,
   "date_rally": "2007-11",
-  "photo_count": 220
+  "photo_count": 220,
+  "stories": [],
+  "hosting_club": "null",
+  "city": "null",
+  "state_province": "null",
+  "country": "null",
+  "recurring": false,
+  "related_clubs": [
+    "null"
+  ],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:01:25Z",
+  "enriched_provider": "Cerebras3"
 }

@@ -5,5 +5,16 @@
   "year": 2003,
   "month": 3,
   "date_rally": "2003-03",
-  "photo_count": 9
+  "photo_count": 9,
+  "stories": [],
+  "description": "A Saint Patrick's Day scooter rally held in Denver.",
+  "city": "Denver",
+  "state_province": "Colorado",
+  "country": "US",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:34:12Z",
+  "enriched_provider": "Novita2"
 }

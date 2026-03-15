@@ -6,88 +6,163 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189168/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189169",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189169&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:10:07",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189169/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:10:07",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189170",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189170&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:10:16",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189170/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:10:16",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189171",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189171&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:12:52",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189171/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:12:52",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189172",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189172&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:16:57",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189172/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:16:57",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189173",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189173&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:17:01",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189173/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:17:01",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189174",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189174&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:17:12",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189174/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:17:12",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189175",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189175&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:43:02",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189175/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:43:02",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189176",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189176&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:43:28",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189176/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:43:28",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189177",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189177&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:52:01",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189177/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:52:01",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189178",
@@ -96,16 +171,27 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189178/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189179",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189179&b=2006/03/bikeweek/TRICKEY/tinyindex.html",
     "photographer": "TRICKEY",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:12 07:14:05",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TRICKEY/189179/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:12 07:14:05",
+      "Make": "SONY",
+      "Model": "CYBERSHOT",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189255",
@@ -114,7 +200,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189255/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189256",
@@ -123,7 +212,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189256/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189257",
@@ -132,7 +224,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189257/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189258",
@@ -141,7 +236,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189258/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189259",
@@ -150,7 +248,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189259/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189260",
@@ -159,7 +260,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189260/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189261",
@@ -168,7 +272,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189261/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189262",
@@ -177,7 +284,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189262/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189263",
@@ -186,7 +296,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189263/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189264",
@@ -195,7 +308,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189264/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189265",
@@ -204,493 +320,928 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-davo/189265/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189114",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189114&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 21:55:35",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189114/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 21:55:35",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189115",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189115&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 21:55:41",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189115/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 21:55:41",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189116",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189116&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 21:55:47",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189116/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 21:55:47",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189117",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189117&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 21:55:54",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189117/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 21:55:54",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189118",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189118&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 21:56:03",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189118/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 21:56:03",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189119",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189119&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 21:56:32",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189119/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 21:56:32",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189120",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189120&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:27:52",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189120/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:27:52",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189121",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189121&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:28:06",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189121/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:28:06",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189122",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189122&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:28:24",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189122/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:28:24",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189123",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189123&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:44:31",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189123/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:44:31",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189124",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189124&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:47:05",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189124/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:47:05",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189125",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189125&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:47:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189125/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:47:10",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189126",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189126&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:47:28",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189126/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:47:28",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189127",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189127&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:47:42",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189127/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:47:42",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189128",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189128&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:49:17",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189128/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:49:17",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189129",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189129&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:49:23",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189129/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:49:23",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189130",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189130&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:49:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189130/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:49:39",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189131",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189131&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:49:49",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189131/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:49:49",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189132",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189132&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:50:02",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189132/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:50:02",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189133",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189133&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:50:27",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189133/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:50:27",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189134",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189134&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:50:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189134/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:50:39",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189135",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189135&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:51:04",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189135/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:51:04",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189136",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189136&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:51:16",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189136/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:51:16",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189137",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189137&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:52:27",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189137/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:52:27",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189138",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189138&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:53:27",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189138/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:53:27",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189139",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189139&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:53:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189139/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:53:39",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189140",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189140&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:54:15",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189140/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:54:15",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189141",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189141&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:54:41",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189141/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:54:41",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189142",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189142&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:57:40",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189142/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:57:40",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189143",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189143&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:57:50",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189143/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:57:50",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189144",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189144&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:58:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189144/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:58:10",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189145",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189145&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:58:25",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189145/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:58:25",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189146",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189146&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:59:07",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189146/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:59:07",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189147",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189147&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 17:59:21",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189147/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 17:59:21",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189148",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189148&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:03:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189148/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:03:39",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189149",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189149&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:03:51",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189149/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:03:51",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189150",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189150&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:04:01",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189150/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:04:01",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189151",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189151&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:04:20",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189151/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:04:20",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189152",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189152&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:04:32",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189152/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:04:32",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189153",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189153&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:05:05",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189153/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:05:05",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189154",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189154&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:05:43",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189154/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:05:43",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189155",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189155&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:10:45",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189155/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:10:45",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189156",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189156&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:10:57",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189156/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:10:57",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189157",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189157&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:11:04",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189157/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:11:04",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189158",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189158&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:16:06",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189158/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:16:06",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189159",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189159&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:16:19",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189159/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:16:19",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189160",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189160&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:16:29",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189160/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:16:29",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189161",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189161&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:18:09",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189161/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:18:09",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189162",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189162&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:21:40",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189162/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:21:40",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189163",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189163&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:21:48",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189163/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:21:48",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189164",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189164&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:22:20",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189164/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:22:20",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189165",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189165&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:22:30",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189165/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:22:30",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189166",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189166&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:22:47",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189166/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:22:47",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189167",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189167&b=2006/03/bikeweek/scandal_d/tinyindex.html",
     "photographer": "scandal_d",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:26:31",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-scandal_d/189167/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:26:31",
+      "Make": "Canon",
+      "Model": "Canon PowerShot G6",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189444",
@@ -699,7 +1250,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189444/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189445",
@@ -708,7 +1262,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189445/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189446",
@@ -717,7 +1274,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189446/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189447",
@@ -726,7 +1286,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189447/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189448",
@@ -735,7 +1298,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189448/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189449",
@@ -744,7 +1310,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189449/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189450",
@@ -753,7 +1322,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189450/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189451",
@@ -762,7 +1334,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189451/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189452",
@@ -771,7 +1346,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189452/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189453",
@@ -780,7 +1358,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189453/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189454",
@@ -789,7 +1370,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189454/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189455",
@@ -798,7 +1382,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189455/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189456",
@@ -807,7 +1394,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189456/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189457",
@@ -816,7 +1406,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189457/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189458",
@@ -825,7 +1418,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189458/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189459",
@@ -834,7 +1430,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189459/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189460",
@@ -843,7 +1442,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189460/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189461",
@@ -852,7 +1454,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189461/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189462",
@@ -861,7 +1466,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189462/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189463",
@@ -870,7 +1478,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189463/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189464",
@@ -879,7 +1490,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189464/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189465",
@@ -888,7 +1502,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189465/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189466",
@@ -897,7 +1514,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189466/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189467",
@@ -906,7 +1526,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189467/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189468",
@@ -915,7 +1538,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189468/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189469",
@@ -924,7 +1550,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189469/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189470",
@@ -933,7 +1562,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189470/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189471",
@@ -942,7 +1574,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189471/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189472",
@@ -951,7 +1586,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189472/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189473",
@@ -960,7 +1598,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189473/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189474",
@@ -969,7 +1610,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189474/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189475",
@@ -978,7 +1622,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189475/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189476",
@@ -987,7 +1634,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189476/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189477",
@@ -996,7 +1646,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189477/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189478",
@@ -1005,7 +1658,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189478/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189479",
@@ -1014,7 +1670,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189479/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189480",
@@ -1023,7 +1682,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189480/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189481",
@@ -1032,7 +1694,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189481/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189482",
@@ -1041,7 +1706,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189482/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189483",
@@ -1050,7 +1718,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189483/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189484",
@@ -1059,7 +1730,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189484/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189485",
@@ -1068,7 +1742,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189485/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189486",
@@ -1077,7 +1754,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189486/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189487",
@@ -1086,7 +1766,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189487/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189488",
@@ -1095,7 +1778,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189488/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189489",
@@ -1104,7 +1790,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189489/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189490",
@@ -1113,7 +1802,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189490/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189491",
@@ -1122,7 +1814,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189491/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189492",
@@ -1131,7 +1826,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189492/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189493",
@@ -1140,7 +1838,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189493/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189494",
@@ -1149,7 +1850,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189494/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189495",
@@ -1158,7 +1862,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189495/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189496",
@@ -1167,7 +1874,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189496/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189497",
@@ -1176,7 +1886,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189497/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189498",
@@ -1185,7 +1898,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189498/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189499",
@@ -1194,7 +1910,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189499/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189500",
@@ -1203,7 +1922,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189500/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189501",
@@ -1212,7 +1934,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189501/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189502",
@@ -1221,7 +1946,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189502/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189503",
@@ -1230,7 +1958,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189503/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189504",
@@ -1239,7 +1970,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189504/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189505",
@@ -1248,7 +1982,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189505/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189506",
@@ -1257,7 +1994,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189506/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189507",
@@ -1266,7 +2006,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189507/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189508",
@@ -1275,7 +2018,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189508/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189509",
@@ -1284,7 +2030,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189509/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189510",
@@ -1293,7 +2042,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189510/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189511",
@@ -1302,7 +2054,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189511/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189512",
@@ -1311,7 +2066,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189512/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189513",
@@ -1320,7 +2078,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189513/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189514",
@@ -1329,7 +2090,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189514/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189515",
@@ -1338,7 +2102,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189515/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189516",
@@ -1347,7 +2114,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189516/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189517",
@@ -1356,7 +2126,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189517/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189518",
@@ -1365,7 +2138,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189518/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189519",
@@ -1374,7 +2150,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189519/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189520",
@@ -1383,7 +2162,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189520/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189521",
@@ -1392,7 +2174,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189521/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189522",
@@ -1401,7 +2186,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189522/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189523",
@@ -1410,7 +2198,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189523/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189524",
@@ -1419,7 +2210,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189524/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189525",
@@ -1428,7 +2222,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189525/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189526",
@@ -1437,7 +2234,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189526/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189527",
@@ -1446,7 +2246,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189527/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189528",
@@ -1455,7 +2258,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189528/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189529",
@@ -1464,7 +2270,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189529/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189530",
@@ -1473,7 +2282,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189530/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189531",
@@ -1482,7 +2294,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189531/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189532",
@@ -1491,7 +2306,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189532/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189533",
@@ -1500,7 +2318,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189533/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189534",
@@ -1509,7 +2330,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189534/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189535",
@@ -1518,7 +2342,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189535/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189536",
@@ -1527,7 +2354,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189536/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189537",
@@ -1536,7 +2366,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189537/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189538",
@@ -1545,7 +2378,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189538/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189539",
@@ -1554,7 +2390,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189539/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189540",
@@ -1563,7 +2402,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189540/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189541",
@@ -1572,7 +2414,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189541/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189542",
@@ -1581,7 +2426,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189542/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189543",
@@ -1590,7 +2438,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189543/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189544",
@@ -1599,7 +2450,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189544/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189545",
@@ -1608,7 +2462,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189545/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189546",
@@ -1617,7 +2474,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189546/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189547",
@@ -1626,7 +2486,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189547/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189548",
@@ -1635,7 +2498,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189548/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189549",
@@ -1644,7 +2510,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189549/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189550",
@@ -1653,7 +2522,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189550/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189551",
@@ -1662,7 +2534,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189551/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189552",
@@ -1671,7 +2546,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189552/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189553",
@@ -1680,7 +2558,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189553/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189554",
@@ -1689,7 +2570,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189554/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189555",
@@ -1698,7 +2582,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189555/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189556",
@@ -1707,7 +2594,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189556/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189557",
@@ -1716,7 +2606,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189557/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189558",
@@ -1725,7 +2618,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189558/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189559",
@@ -1734,7 +2630,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189559/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189560",
@@ -1743,7 +2642,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189560/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189561",
@@ -1752,7 +2654,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189561/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189562",
@@ -1761,7 +2666,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189562/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189563",
@@ -1770,7 +2678,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189563/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189564",
@@ -1779,7 +2690,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189564/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189565",
@@ -1788,7 +2702,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189565/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189566",
@@ -1797,7 +2714,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189566/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189567",
@@ -1806,7 +2726,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189567/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189568",
@@ -1815,7 +2738,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189568/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189569",
@@ -1824,7 +2750,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189569/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189570",
@@ -1833,7 +2762,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189570/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189571",
@@ -1842,7 +2774,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189571/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189572",
@@ -1851,7 +2786,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189572/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189573",
@@ -1860,7 +2798,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189573/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189574",
@@ -1869,7 +2810,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189574/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189575",
@@ -1878,7 +2822,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189575/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189576",
@@ -1887,7 +2834,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189576/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189577",
@@ -1896,7 +2846,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189577/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189578",
@@ -1905,7 +2858,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189578/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189579",
@@ -1914,7 +2870,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189579/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189580",
@@ -1923,7 +2882,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189580/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189581",
@@ -1932,7 +2894,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189581/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189582",
@@ -1941,7 +2906,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189582/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189583",
@@ -1950,7 +2918,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189583/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189584",
@@ -1959,7 +2930,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189584/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189585",
@@ -1968,7 +2942,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189585/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189586",
@@ -1977,7 +2954,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189586/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189587",
@@ -1986,7 +2966,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189587/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189588",
@@ -1995,7 +2978,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189588/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189589",
@@ -2004,7 +2990,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189589/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189590",
@@ -2013,7 +3002,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189590/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189591",
@@ -2022,7 +3014,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189591/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189592",
@@ -2031,7 +3026,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189592/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189593",
@@ -2040,7 +3038,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189593/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189594",
@@ -2049,7 +3050,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189594/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189595",
@@ -2058,7 +3062,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189595/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189596",
@@ -2067,7 +3074,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189596/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189597",
@@ -2076,7 +3086,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189597/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189598",
@@ -2085,7 +3098,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189598/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189599",
@@ -2094,25 +3110,44 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-TSS_BatAttaK/189599/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189646",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189646&b=2006/03/bikeweek/brett_sloan/tinyindex.html",
     "photographer": "brett_sloan",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:14 21:13:09",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-brett_sloan/189646/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:14 21:13:09",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "191166",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=191166&b=2006/03/bikeweek/menace/tinyindex.html",
     "photographer": "menace",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:25 12:36:54",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-menace/191166/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:25 12:36:54",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A40",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "191167",
@@ -2121,16 +3156,27 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-menace/191167/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "191168",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=191168&b=2006/03/bikeweek/menace/tinyindex.html",
     "photographer": "menace",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:26 14:21:56",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-menace/191168/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:26 14:21:56",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A40",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189306",
@@ -2139,7 +3185,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189306/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189307",
@@ -2148,7 +3197,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189307/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189308",
@@ -2157,7 +3209,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189308/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189309",
@@ -2166,7 +3221,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189309/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189310",
@@ -2175,7 +3233,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189310/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189311",
@@ -2184,7 +3245,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189311/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189312",
@@ -2193,7 +3257,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189312/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189313",
@@ -2202,7 +3269,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189313/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189314",
@@ -2211,7 +3281,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189314/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189315",
@@ -2220,7 +3293,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189315/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189316",
@@ -2229,7 +3305,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189316/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189317",
@@ -2238,7 +3317,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189317/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189318",
@@ -2247,7 +3329,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189318/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189319",
@@ -2256,7 +3341,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189319/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189320",
@@ -2265,7 +3353,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189320/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189321",
@@ -2274,7 +3365,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189321/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189322",
@@ -2283,7 +3377,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189322/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189323",
@@ -2292,7 +3389,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189323/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189324",
@@ -2301,7 +3401,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189324/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189325",
@@ -2310,7 +3413,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189325/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189326",
@@ -2319,7 +3425,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189326/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189327",
@@ -2328,7 +3437,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189327/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189328",
@@ -2337,7 +3449,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189328/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189329",
@@ -2346,7 +3461,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189329/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189330",
@@ -2355,7 +3473,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189330/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189331",
@@ -2364,7 +3485,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189331/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189332",
@@ -2373,7 +3497,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189332/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189333",
@@ -2382,7 +3509,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189333/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189334",
@@ -2391,7 +3521,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189334/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189335",
@@ -2400,7 +3533,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189335/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189336",
@@ -2409,7 +3545,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189336/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189337",
@@ -2418,7 +3557,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189337/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189338",
@@ -2427,7 +3569,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189338/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189339",
@@ -2436,7 +3581,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189339/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189340",
@@ -2445,592 +3593,1115 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Rob/189340/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189394",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189394&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:08",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189394/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:08",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189395",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189395&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:19",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189395/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:19",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189396",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189396&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:24",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189396/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:24",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189397",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189397&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:54",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189397/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:54",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189398",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189398&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:01:12",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189398/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:01:12",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189399",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189399&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:01:20",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189399/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:01:20",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189400",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189400&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:13",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189400/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:13",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189401",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189401&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:20",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189401/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:20",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189402",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189402&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:27",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189402/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:27",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189403",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189403&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:47",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189403/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:47",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189404",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189404&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:01:31",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189404/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:01:31",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189405",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189405&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:01:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189405/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:01:39",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189406",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189406&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:02:04",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189406/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:02:04",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189407",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189407&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:02:18",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189407/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:02:18",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189408",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189408&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:02:38",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189408/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:02:38",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189409",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189409&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:24",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189409/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:24",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189410",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189410&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:46",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189410/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:46",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189411",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189411&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:01:07",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189411/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:01:07",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189412",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189412&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:01:17",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189412/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:01:17",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189413",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189413&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:24",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189413/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:24",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189414",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189414&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189414/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:39",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189415",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189415&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:01:03",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189415/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:01:03",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189416",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189416&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:37",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189416/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:37",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189417",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189417&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:00:53",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189417/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:00:53",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189418",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189418&b=2006/03/bikeweek/NoL_and_XXGABEXX/tinyindex.html",
     "photographer": "NoL_and_XXGABEXX",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2005:01:01 00:01:02",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-NoL_and_XXGABEXX/189418/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2005:01:01 00:01:02",
+      "Make": "FUJIFILM",
+      "Model": "FinePix F10",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189419",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189419&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 19:04:55",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189419/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 19:04:55",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189420",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189420&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 21:51:02",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189420/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 21:51:02",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189421",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189421&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 22:15:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189421/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 22:15:10",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189422",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189422&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 22:23:34",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189422/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 22:23:34",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189423",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189423&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 08:23:28",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189423/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 08:23:28",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189424",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189424&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:52:09",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189424/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:52:09",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189425",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189425&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:52:16",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189425/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:52:16",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189426",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189426&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:52:25",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189426/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:52:25",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189427",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189427&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:52:34",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189427/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:52:34",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189428",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189428&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 10:53:26",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189428/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 10:53:26",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189429",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189429&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 11:24:18",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189429/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 11:24:18",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189430",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189430&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 12:30:13",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189430/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 12:30:13",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189431",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189431&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 14:42:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189431/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 14:42:10",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189432",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189432&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 14:50:27",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189432/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 14:50:27",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189433",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189433&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 14:50:43",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189433/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 14:50:43",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189434",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189434&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 14:51:56",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189434/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 14:51:56",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189435",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189435&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 14:52:13",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189435/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 14:52:13",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189436",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189436&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 15:08:57",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189436/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 15:08:57",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189437",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189437&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 16:22:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189437/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 16:22:10",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189438",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189438&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 21:44:03",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189438/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 21:44:03",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189439",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189439&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 21:45:05",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189439/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 21:45:05",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189440",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189440&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 21:45:52",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189440/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 21:45:52",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189441",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189441&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 22:06:52",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189441/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 22:06:52",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189442",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189442&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 22:09:09",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189442/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 22:09:09",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189443",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189443&b=2006/03/bikeweek/Eleanor_Chaos/tinyindex.html",
     "photographer": "Eleanor_Chaos",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 22:11:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Eleanor_Chaos/189443/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 22:11:10",
+      "Make": "Canon",
+      "Model": "Canon PowerShot SD400",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189099",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189099&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 09:48:42",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189099/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 09:48:42",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189100",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189100&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 09:52:52",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189100/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 09:52:52",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189101",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189101&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 11:46:38",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189101/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 11:46:38",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189102",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189102&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 11:46:53",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189102/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 11:46:53",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189103",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189103&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 13:28:45",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189103/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 13:28:45",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189104",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189104&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 13:32:07",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189104/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 13:32:07",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189105",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189105&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 16:27:03",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189105/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 16:27:03",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189106",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189106&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:21:55",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189106/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:21:55",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189107",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189107&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:40:24",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189107/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:40:24",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189108",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189108&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:40:59",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189108/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:40:59",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189109",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189109&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 18:41:12",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189109/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 18:41:12",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189110",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189110&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 19:52:13",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189110/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 19:52:13",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189111",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189111&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 21:37:19",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189111/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 21:37:19",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189112",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189112&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 22:36:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189112/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 22:36:39",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189113",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189113&b=2006/03/bikeweek/7BSC__Luke/tinyindex.html",
     "photographer": "7BSC__Luke",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:11 22:36:57",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-7BSC__Luke/189113/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:11 22:36:57",
+      "Make": "SONY",
+      "Model": "DSC-P32",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189266",
@@ -3039,7 +4710,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189266/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189267",
@@ -3048,7 +4722,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189267/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189268",
@@ -3057,7 +4734,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189268/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189269",
@@ -3066,16 +4746,27 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189269/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189270",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=189270&b=2006/03/bikeweek/Scandal_C/tinyindex.html",
     "photographer": "Scandal_C",
     "date_rally": "2006-03",
-    "date_exif": null,
+    "date_exif": "2006:03:10 09:22:57",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189270/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:03:10 09:22:57",
+      "Make": "Canon",
+      "Model": "Canon PowerShot A75",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "189271",
@@ -3084,7 +4775,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189271/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189272",
@@ -3093,7 +4787,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189272/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189273",
@@ -3102,7 +4799,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189273/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189274",
@@ -3111,7 +4811,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189274/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189275",
@@ -3120,7 +4823,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189275/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189276",
@@ -3129,7 +4835,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189276/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189277",
@@ -3138,7 +4847,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189277/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189278",
@@ -3147,7 +4859,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189278/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189279",
@@ -3156,7 +4871,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189279/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189280",
@@ -3165,7 +4883,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189280/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189281",
@@ -3174,7 +4895,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189281/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189282",
@@ -3183,7 +4907,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189282/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189283",
@@ -3192,7 +4919,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189283/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189284",
@@ -3201,7 +4931,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189284/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189285",
@@ -3210,7 +4943,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189285/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189286",
@@ -3219,7 +4955,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189286/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189287",
@@ -3228,7 +4967,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189287/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189288",
@@ -3237,7 +4979,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189288/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189289",
@@ -3246,7 +4991,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189289/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189290",
@@ -3255,7 +5003,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189290/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189291",
@@ -3264,7 +5015,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189291/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189292",
@@ -3273,7 +5027,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189292/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189293",
@@ -3282,7 +5039,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189293/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189294",
@@ -3291,7 +5051,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189294/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189295",
@@ -3300,7 +5063,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189295/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189296",
@@ -3309,7 +5075,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189296/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189297",
@@ -3318,7 +5087,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189297/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189298",
@@ -3327,7 +5099,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189298/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189299",
@@ -3336,7 +5111,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189299/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189300",
@@ -3345,7 +5123,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189300/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189301",
@@ -3354,7 +5135,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189301/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189302",
@@ -3363,7 +5147,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189302/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189303",
@@ -3372,7 +5159,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189303/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189304",
@@ -3381,7 +5171,10 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189304/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "189305",
@@ -3390,6 +5183,9 @@
     "date_rally": "2006-03",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200603-Scandal_C/189305/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   }
 ]

@@ -5,5 +5,15 @@
   "year": 2012,
   "month": 8,
   "date_rally": "2012-08",
-  "photo_count": 27
+  "photo_count": 27,
+  "description": "A description of the Ottawa CURD Vintage Scooter Rally is not available at this time.",
+  "city": "Ottawa",
+  "state_province": "Ontario",
+  "country": "Canada",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:19:24Z",
+  "enriched_provider": "Novita2"
 }

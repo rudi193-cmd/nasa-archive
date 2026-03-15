@@ -5,5 +5,15 @@
   "year": 2003,
   "month": 4,
   "date_rally": "2003-04",
-  "photo_count": 105
+  "photo_count": 105,
+  "stories": [],
+  "description": "The 2nd annual Easter Party, hosted by the Cute Bunnies & Kitties S.C.",
+  "hosting_club": "Cute Bunnies & Kitties S.C.",
+  "recurring": true,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:30:13Z",
+  "enriched_provider": "Novita"
 }

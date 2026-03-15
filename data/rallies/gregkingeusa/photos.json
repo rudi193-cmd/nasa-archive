@@ -6,7 +6,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Chelsea/4278/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4279",
@@ -15,7 +18,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Chelsea/4279/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4280",
@@ -24,7 +30,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Chelsea/4280/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4281",
@@ -33,124 +42,231 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Chelsea/4281/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7994",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=7994&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 09:40:11",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/7994/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 09:40:11",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "7995",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=7995&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 09:40:18",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/7995/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 09:40:18",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "7996",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=7996&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 09:40:33",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/7996/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 09:40:33",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "7997",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=7997&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 10:42:43",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/7997/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 10:42:43",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "7998",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=7998&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 10:42:47",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/7998/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 10:42:47",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "7999",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=7999&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 10:42:52",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/7999/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 10:42:52",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "8000",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=8000&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 10:52:24",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/8000/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 10:52:24",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "8001",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=8001&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 10:52:28",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/8001/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 10:52:28",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "8002",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=8002&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 10:52:34",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/8002/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 10:52:34",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "8003",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=8003&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 10:53:37",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/8003/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 10:53:37",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "8004",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=8004&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:13 10:54:03",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/8004/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:13 10:54:03",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "8005",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=8005&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:15 09:00:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/8005/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:15 09:00:10",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "8006",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=8006&b=gregkingeusa/bryan_noise_chicago/tinyindex.html",
     "photographer": "bryan_noise_chicago",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:15 09:00:18",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-bryan_noise_chicago/8006/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:15 09:00:18",
+      "Make": "FUJIFILM",
+      "Model": "FinePix4700 ZOOM",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4835",
@@ -159,7 +275,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_CA/4835/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4836",
@@ -168,7 +287,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_CA/4836/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4837",
@@ -177,7 +299,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_CA/4837/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4838",
@@ -186,7 +311,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_CA/4838/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4839",
@@ -195,7 +323,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_CA/4839/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4840",
@@ -204,7 +335,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_CA/4840/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4841",
@@ -213,7 +347,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_CA/4841/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4842",
@@ -222,7 +359,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_CA/4842/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4650",
@@ -231,7 +371,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-thirtytwo/4650/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4651",
@@ -240,7 +383,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-thirtytwo/4651/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4652",
@@ -249,7 +395,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-thirtytwo/4652/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4653",
@@ -258,7 +407,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-thirtytwo/4653/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4654",
@@ -267,7 +419,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-thirtytwo/4654/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4655",
@@ -276,7 +431,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-thirtytwo/4655/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4656",
@@ -285,7 +443,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-thirtytwo/4656/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4657",
@@ -294,88 +455,163 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-thirtytwo/4657/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4862",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4862&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 07:42:50",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4862/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 07:42:50",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4863",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4863&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 07:39:53",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4863/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 07:39:53",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4864",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4864&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 06:33:25",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4864/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 06:33:25",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4865",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4865&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 06:36:18",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4865/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 06:36:18",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4866",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4866&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 06:33:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4866/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 06:33:00",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4867",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4867&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 06:49:24",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4867/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 06:49:24",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4868",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4868&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 06:49:40",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4868/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 06:49:40",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4869",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4869&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 06:49:04",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4869/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 06:49:04",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4870",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4870&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 07:25:27",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4870/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 07:25:27",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4871",
@@ -384,7 +620,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4871/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4872",
@@ -393,16 +632,27 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4872/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4873",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4873&b=gregkingeusa/BajajJim/tinyindex.html",
     "photographer": "BajajJim",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:05:08 06:15:54",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4873/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:08 06:15:54",
+      "Make": "Hewlett-Packard Company",
+      "Model": "PhotoSmart C200      \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4874",
@@ -411,7 +661,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4874/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4875",
@@ -420,7 +673,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-BajajJim/4875/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4265",
@@ -429,7 +685,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4265/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4266",
@@ -438,7 +697,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4266/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4267",
@@ -447,7 +709,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4267/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4268",
@@ -456,7 +721,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4268/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4269",
@@ -465,7 +733,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4269/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4270",
@@ -474,7 +745,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4270/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4271",
@@ -483,7 +757,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4271/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4272",
@@ -492,7 +769,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4272/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4273",
@@ -501,7 +781,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4273/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4274",
@@ -510,7 +793,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4274/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4275",
@@ -519,7 +805,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4275/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4276",
@@ -528,7 +817,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4276/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4277",
@@ -537,7 +829,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-John_M_Stafford/4277/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4843",
@@ -546,7 +841,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4843/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4844",
@@ -555,7 +853,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4844/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4845",
@@ -564,7 +865,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4845/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4846",
@@ -573,7 +877,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4846/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4847",
@@ -582,7 +889,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4847/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4848",
@@ -591,7 +901,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4848/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4849",
@@ -600,7 +913,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4849/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4850",
@@ -609,7 +925,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4850/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4851",
@@ -618,7 +937,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4851/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4852",
@@ -627,7 +949,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Alan_M_/4852/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "5675",
@@ -636,7 +961,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-dave_slugrockets_sc/5675/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "5676",
@@ -645,7 +973,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-dave_slugrockets_sc/5676/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "5677",
@@ -654,7 +985,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-dave_slugrockets_sc/5677/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "5678",
@@ -663,7 +997,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-dave_slugrockets_sc/5678/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "5679",
@@ -672,16 +1009,27 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-dave_slugrockets_sc/5679/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7955",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=7955&b=gregkingeusa/Phil_Waters/tinyindex.html",
     "photographer": "Phil_Waters",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:18 09:14:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Phil_Waters/7955/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:18 09:14:10",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "7956",
@@ -690,25 +1038,44 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Phil_Waters/7956/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7957",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=7957&b=gregkingeusa/Phil_Waters/tinyindex.html",
     "photographer": "Phil_Waters",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:18 09:21:46",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Phil_Waters/7957/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:18 09:21:46",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "7958",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=7958&b=gregkingeusa/Phil_Waters/tinyindex.html",
     "photographer": "Phil_Waters",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "2002:06:18 09:20:33",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Phil_Waters/7958/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:06:18 09:20:33",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "7885",
@@ -717,88 +1084,163 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Nick_Pharaoh_/7885/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4256",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4256&b=gregkingeusa/robby/tinyindex.html",
     "photographer": "robby",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "0000:00:00 00:00:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-robby/4256/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "0000:00:00 00:00:00",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4257",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4257&b=gregkingeusa/robby/tinyindex.html",
     "photographer": "robby",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "0000:00:00 00:00:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-robby/4257/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "0000:00:00 00:00:00",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4258",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4258&b=gregkingeusa/robby/tinyindex.html",
     "photographer": "robby",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "0000:00:00 00:00:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-robby/4258/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "0000:00:00 00:00:00",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4259",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4259&b=gregkingeusa/robby/tinyindex.html",
     "photographer": "robby",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "0000:00:00 00:00:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-robby/4259/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "0000:00:00 00:00:00",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4260",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4260&b=gregkingeusa/robby/tinyindex.html",
     "photographer": "robby",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "0000:00:00 00:00:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-robby/4260/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "0000:00:00 00:00:00",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4261",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4261&b=gregkingeusa/robby/tinyindex.html",
     "photographer": "robby",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "0000:00:00 00:00:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-robby/4261/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "0000:00:00 00:00:00",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4262",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4262&b=gregkingeusa/robby/tinyindex.html",
     "photographer": "robby",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "0000:00:00 00:00:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-robby/4262/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "0000:00:00 00:00:00",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4263",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4263&b=gregkingeusa/robby/tinyindex.html",
     "photographer": "robby",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "0000:00:00 00:00:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-robby/4263/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "0000:00:00 00:00:00",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "4264",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=4264&b=gregkingeusa/robby/tinyindex.html",
     "photographer": "robby",
     "date_rally": null,
-    "date_exif": null,
+    "date_exif": "0000:00:00 00:00:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-robby/4264/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "0000:00:00 00:00:00",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C960Z,D460Z",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "8077",
@@ -807,7 +1249,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-mykr/8077/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "8078",
@@ -816,7 +1261,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-mykr/8078/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "8079",
@@ -825,7 +1273,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-mykr/8079/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "8080",
@@ -834,7 +1285,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-mykr/8080/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4853",
@@ -843,7 +1297,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_Day_2/4853/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4854",
@@ -852,7 +1309,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_Day_2/4854/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4855",
@@ -861,7 +1321,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_Day_2/4855/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4856",
@@ -870,7 +1333,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_Day_2/4856/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4857",
@@ -879,7 +1345,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_Day_2/4857/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4858",
@@ -888,7 +1357,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_Day_2/4858/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4859",
@@ -897,7 +1369,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_Day_2/4859/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4860",
@@ -906,7 +1381,10 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_Day_2/4860/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "4861",
@@ -915,6 +1393,9 @@
     "date_rally": null,
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/unknown-Mike_Frankovich_Los_Angeles_Day_2/4861/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   }
 ]

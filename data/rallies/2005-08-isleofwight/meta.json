@@ -5,5 +5,14 @@
   "year": 2005,
   "month": 8,
   "date_rally": "2005-08",
-  "photo_count": 589
+  "photo_count": 589,
+  "stories": [],
+  "city": "Isle of Wight",
+  "country": "United Kingdom",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:45:26Z",
+  "enriched_provider": "Novita"
 }

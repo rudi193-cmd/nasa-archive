@@ -5,5 +5,15 @@
   "year": 2012,
   "month": 6,
   "date_rally": "2012-06",
-  "photo_count": 223
+  "photo_count": 223,
+  "description": "The Usual Suspects Blazing Saddles Rally was held in 2012",
+  "hosting_club": "The Usual Suspects scooter club",
+  "country": "US",
+  "recurring": false,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:19:48Z",
+  "enriched_provider": "Cerebras2"
 }

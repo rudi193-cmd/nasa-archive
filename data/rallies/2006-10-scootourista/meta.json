@@ -5,5 +5,17 @@
   "year": 2006,
   "month": 10,
   "date_rally": "2006-10",
-  "photo_count": 72
+  "photo_count": 72,
+  "stories": [],
+  "description": "Annual scooter rally hosted by scoot.net",
+  "city": "null",
+  "country": "US",
+  "recurring": true,
+  "notable_facts": [
+    "Hosted in October 2006 at various locations reported in photos on scoot.net"
+  ],
+  "source_confidence": "high",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:54:18Z",
+  "enriched_provider": "Novita2"
 }

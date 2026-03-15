@@ -5,5 +5,15 @@
   "year": 2008,
   "month": 11,
   "date_rally": "2008-11",
-  "photo_count": 159
+  "photo_count": 159,
+  "stories": [],
+  "recurring": false,
+  "notable_facts": [
+    "The rally was documented on Scoot.net"
+  ],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:23:26Z",
+  "enriched_provider": "Cerebras"
 }

@@ -5,5 +5,17 @@
   "year": 2010,
   "month": 5,
   "date_rally": "2010-05",
-  "photo_count": 79
+  "photo_count": 79,
+  "description": "Scooper and scooterist gathering at a NYC location; details are limited due to insufficient information ",
+  "city": "New York City",
+  "country": "USA",
+  "notable_facts": [
+    "Held in May 2010",
+    "Photos available on Scoot.net"
+  ],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:14:32Z",
+  "enriched_provider": "Cerebras"
 }

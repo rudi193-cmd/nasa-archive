@@ -5,5 +5,14 @@
   "year": 2012,
   "month": 1,
   "date_rally": "2012-01",
-  "photo_count": 232
+  "photo_count": 232,
+  "description": "Documentation of Freeze Your Balls Off rally at Scoot.net, appears to be a winter scooter event.",
+  "country": "USA",
+  "recurring": false,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:18:55Z",
+  "enriched_provider": "Cerebras3"
 }

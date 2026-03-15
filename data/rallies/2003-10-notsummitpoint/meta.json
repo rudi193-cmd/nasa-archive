@@ -5,5 +5,10 @@
   "year": 2003,
   "month": 10,
   "date_rally": "2003-10",
-  "photo_count": 231
+  "photo_count": 231,
+  "stories": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:20:05Z",
+  "enriched_provider": "Novita"
 }

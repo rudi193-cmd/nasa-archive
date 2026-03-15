@@ -5,5 +5,17 @@
   "year": 2008,
   "month": 9,
   "date_rally": "2008-09",
-  "photo_count": 461
+  "photo_count": 461,
+  "stories": [],
+  "description": "I don't have information about the purpose of this 2008 Cannonball scooter rally.",
+  "city": "null",
+  "state_province": "null",
+  "country": "null",
+  "recurring": false,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:01:56Z",
+  "enriched_provider": "Cerebras"
 }

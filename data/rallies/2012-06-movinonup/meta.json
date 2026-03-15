@@ -5,5 +5,21 @@
   "year": 2012,
   "month": 6,
   "date_rally": "2012-06",
-  "photo_count": 98
+  "photo_count": 98,
+  "description": "Information available on Movin on up is limited, but it appears to be a scooter rally in June of 2012",
+  "hosting_club": "null",
+  "city": "null",
+  "state_province": "null",
+  "country": "US",
+  "recurring": "false",
+  "notable_facts": [
+    "Rally details are limited"
+  ],
+  "related_clubs": [
+    "null"
+  ],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:19:12Z",
+  "enriched_provider": "Cerebras3"
 }

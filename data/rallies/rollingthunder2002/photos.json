@@ -6,7 +6,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Chelsea/6144/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6145",
@@ -15,7 +18,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Chelsea/6145/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6146",
@@ -24,16 +30,27 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Chelsea/6146/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6147",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6147&b=rollingthunder2002/Chelsea/tinyindex.html",
     "photographer": "Chelsea",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:25 19:36:57",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Chelsea/6147/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:25 19:36:57",
+      "Make": "Hewlett-Packard",
+      "Model": "HP PhotoSmart 318",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6148",
@@ -42,7 +59,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Chelsea/6148/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6149",
@@ -51,16 +71,27 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Chelsea/6149/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6150",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6150&b=rollingthunder2002/Chelsea/tinyindex.html",
     "photographer": "Chelsea",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:25 21:57:23",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Chelsea/6150/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:25 21:57:23",
+      "Make": "Hewlett-Packard",
+      "Model": "HP PhotoSmart 318",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6151",
@@ -69,7 +100,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Chelsea/6151/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6228",
@@ -78,7 +112,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6228/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6229",
@@ -87,7 +124,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6229/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6230",
@@ -96,7 +136,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6230/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6231",
@@ -105,7 +148,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6231/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6232",
@@ -114,7 +160,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6232/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6233",
@@ -123,7 +172,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6233/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6234",
@@ -132,7 +184,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6234/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6235",
@@ -141,7 +196,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6235/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6236",
@@ -150,7 +208,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6236/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6237",
@@ -159,7 +220,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6237/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6238",
@@ -168,7 +232,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6238/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6239",
@@ -177,7 +244,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6239/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6240",
@@ -186,7 +256,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6240/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6241",
@@ -195,7 +268,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6241/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6242",
@@ -204,7 +280,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6242/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6243",
@@ -213,7 +292,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6243/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6244",
@@ -222,7 +304,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6244/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6245",
@@ -231,7 +316,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-tim_oflea/6245/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6089",
@@ -240,7 +328,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6089/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6090",
@@ -249,7 +340,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6090/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6091",
@@ -258,7 +352,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6091/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6092",
@@ -267,7 +364,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6092/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6093",
@@ -276,7 +376,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6093/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6094",
@@ -285,7 +388,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6094/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6095",
@@ -294,7 +400,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6095/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6096",
@@ -303,7 +412,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6096/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6097",
@@ -312,7 +424,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6097/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6098",
@@ -321,7 +436,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6098/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6099",
@@ -330,7 +448,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6099/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6100",
@@ -339,7 +460,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6100/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6101",
@@ -348,7 +472,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6101/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6102",
@@ -357,7 +484,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6102/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6103",
@@ -366,7 +496,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6103/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6104",
@@ -375,7 +508,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6104/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6105",
@@ -384,7 +520,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6105/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6106",
@@ -393,7 +532,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6106/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6107",
@@ -402,7 +544,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6107/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6108",
@@ -411,7 +556,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6108/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6109",
@@ -420,7 +568,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6109/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6110",
@@ -429,7 +580,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6110/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6111",
@@ -438,7 +592,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6111/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6112",
@@ -447,7 +604,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6112/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6113",
@@ -456,7 +616,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6113/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6114",
@@ -465,7 +628,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6114/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6115",
@@ -474,7 +640,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6115/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6116",
@@ -483,7 +652,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6116/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6117",
@@ -492,7 +664,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6117/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6118",
@@ -501,7 +676,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6118/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6119",
@@ -510,7 +688,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6119/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6120",
@@ -519,7 +700,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6120/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6121",
@@ -528,7 +712,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6121/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6122",
@@ -537,7 +724,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6122/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6123",
@@ -546,7 +736,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6123/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6124",
@@ -555,7 +748,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6124/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6125",
@@ -564,7 +760,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6125/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6126",
@@ -573,7 +772,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6126/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6127",
@@ -582,7 +784,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6127/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6128",
@@ -591,7 +796,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6128/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6129",
@@ -600,7 +808,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6129/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6130",
@@ -609,7 +820,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6130/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6131",
@@ -618,7 +832,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6131/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6132",
@@ -627,7 +844,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6132/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6133",
@@ -636,7 +856,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6133/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6134",
@@ -645,7 +868,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6134/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6135",
@@ -654,7 +880,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6135/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6136",
@@ -663,7 +892,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6136/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6137",
@@ -672,7 +904,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6137/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6138",
@@ -681,7 +916,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6138/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6139",
@@ -690,7 +928,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6139/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6140",
@@ -699,7 +940,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6140/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6141",
@@ -708,7 +952,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6141/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6142",
@@ -717,7 +964,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6142/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6143",
@@ -726,7 +976,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-John_M_Stafford/6143/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6082",
@@ -735,7 +988,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Wellesley_Scott/6082/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6083",
@@ -744,7 +1000,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Wellesley_Scott/6083/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6084",
@@ -753,7 +1012,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Wellesley_Scott/6084/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6085",
@@ -762,7 +1024,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Wellesley_Scott/6085/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6086",
@@ -771,7 +1036,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Wellesley_Scott/6086/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6087",
@@ -780,7 +1048,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Wellesley_Scott/6087/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6088",
@@ -789,7 +1060,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Wellesley_Scott/6088/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6410",
@@ -798,97 +1072,180 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6410/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6411",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6411&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 11:39:53",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6411/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 11:39:53",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6412",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6412&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 13:02:36",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6412/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 13:02:36",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6413",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6413&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 12:29:20",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6413/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 12:29:20",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6414",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6414&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 12:54:45",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6414/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 12:54:45",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6415",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6415&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 11:39:47",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6415/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 11:39:47",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6416",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6416&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 12:25:30",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6416/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 12:25:30",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6417",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6417&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 12:41:22",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6417/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 12:41:22",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6418",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6418&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 12:29:14",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6418/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 12:29:14",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6419",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6419&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 12:29:31",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6419/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 12:29:31",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6420",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6420&b=rollingthunder2002/Stacey_Barich/tinyindex.html",
     "photographer": "Stacey_Barich",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 12:54:20",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Stacey_Barich/6420/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 12:54:20",
+      "Make": "OLYMPUS OPTICAL CO.,LTD",
+      "Model": "C830L,D340R",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "7477",
@@ -897,7 +1254,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7477/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7478",
@@ -906,7 +1266,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7478/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7479",
@@ -915,7 +1278,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7479/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7480",
@@ -924,7 +1290,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7480/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7481",
@@ -933,7 +1302,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7481/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7482",
@@ -942,7 +1314,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7482/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7483",
@@ -951,7 +1326,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7483/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7484",
@@ -960,7 +1338,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7484/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7485",
@@ -969,7 +1350,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7485/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7486",
@@ -978,7 +1362,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7486/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7487",
@@ -987,7 +1374,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7487/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7488",
@@ -996,7 +1386,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7488/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7489",
@@ -1005,7 +1398,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7489/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7490",
@@ -1014,7 +1410,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7490/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7491",
@@ -1023,7 +1422,10 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7491/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "7492",
@@ -1032,69 +1434,128 @@
     "date_rally": "2002-??",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-svend_sheppard/7492/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "6755",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6755&b=rollingthunder2002/Susan_B/tinyindex.html",
     "photographer": "Susan_B",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 10:02:02",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Susan_B/6755/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 10:02:02",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK DX3600 DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6756",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6756&b=rollingthunder2002/Susan_B/tinyindex.html",
     "photographer": "Susan_B",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 10:03:25",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Susan_B/6756/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 10:03:25",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK DX3600 DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6757",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6757&b=rollingthunder2002/Susan_B/tinyindex.html",
     "photographer": "Susan_B",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 10:06:39",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Susan_B/6757/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 10:06:39",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK DX3600 DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6758",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6758&b=rollingthunder2002/Susan_B/tinyindex.html",
     "photographer": "Susan_B",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 11:09:06",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Susan_B/6758/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 11:09:06",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK DX3600 DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6759",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6759&b=rollingthunder2002/Susan_B/tinyindex.html",
     "photographer": "Susan_B",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 11:31:12",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Susan_B/6759/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 11:31:12",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK DX3600 DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6760",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6760&b=rollingthunder2002/Susan_B/tinyindex.html",
     "photographer": "Susan_B",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 12:52:47",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Susan_B/6760/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 12:52:47",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK DX3600 DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "6761",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=6761&b=rollingthunder2002/Susan_B/tinyindex.html",
     "photographer": "Susan_B",
     "date_rally": "2002-??",
-    "date_exif": null,
+    "date_exif": "2002:05:26 14:00:23",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/2002%3F%3F-Susan_B/6761/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2002:05:26 14:00:23",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK DX3600 DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   }
 ]

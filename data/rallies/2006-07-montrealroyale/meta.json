@@ -5,5 +5,16 @@
   "year": 2006,
   "month": 7,
   "date_rally": "2006-07",
-  "photo_count": 920
+  "photo_count": 920,
+  "stories": [],
+  "description": "2006 Montreal Rally Royale scooter rally",
+  "city": "Montreal",
+  "state_province": "Quebec",
+  "country": "Canada",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:52:20Z",
+  "enriched_provider": "Novita"
 }

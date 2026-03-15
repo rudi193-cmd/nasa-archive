@@ -5,5 +5,17 @@
   "year": 2004,
   "month": 6,
   "date_rally": "2004-06",
-  "photo_count": 0
+  "photo_count": 0,
+  "description": "1-3 sentence description of what this rally was",
+  "hosting_club": "PVSC (Phoenix Valley Scooter Club)",
+  "city": "null",
+  "state_province": "Arizona",
+  "country": "US",
+  "recurring": true,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "medium",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:40:54Z",
+  "enriched_provider": "Cerebras"
 }

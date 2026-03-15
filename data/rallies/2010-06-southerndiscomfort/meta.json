@@ -5,5 +5,12 @@
   "year": 2010,
   "month": 6,
   "date_rally": "2010-06",
-  "photo_count": 247
+  "photo_count": 247,
+  "description": "Description not found, but the event appears to be a scooter rally with attendees and photographs.",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:21:43Z",
+  "enriched_provider": "Cerebras"
 }

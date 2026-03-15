@@ -5,5 +5,18 @@
   "year": 2005,
   "month": 10,
   "date_rally": "2005-10",
-  "photo_count": 133
+  "photo_count": 133,
+  "stories": [],
+  "description": "Held in memory of those who have passed away in the scooter community.",
+  "hosting_club": "Los Gatos Locos",
+  "city": "Phoenix",
+  "state_province": "Arizona",
+  "country": "US",
+  "recurring": true,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "high",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:46:27Z",
+  "enriched_provider": "Cerebras3"
 }

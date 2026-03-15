@@ -6,7 +6,10 @@
     "date_rally": "2008-09",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200809-Waht_Waht_Waht_Waaaah/344353/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "344354",
@@ -15,6 +18,9 @@
     "date_rally": "2008-09",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200809-Waht_Waht_Waht_Waaaah/344354/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   }
 ]

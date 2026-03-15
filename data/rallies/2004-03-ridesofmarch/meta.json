@@ -5,5 +5,13 @@
   "year": 2004,
   "month": 3,
   "date_rally": "2004-03",
-  "photo_count": 511
+  "photo_count": 511,
+  "stories": [],
+  "description": "Rides of March scooter rally",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:41:09Z",
+  "enriched_provider": "Novita2"
 }

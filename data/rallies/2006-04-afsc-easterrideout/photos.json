@@ -4,144 +4,272 @@
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195356&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 12:34:42",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195356/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 12:34:42",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195357",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195357&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 12:34:58",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195357/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 12:34:58",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195358",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195358&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 12:35:43",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195358/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 12:35:43",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195359",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195359&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 12:36:45",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195359/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 12:36:45",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195360",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195360&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 12:37:57",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195360/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 12:37:57",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195361",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195361&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 12:49:28",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195361/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 12:49:28",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195362",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195362&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 12:57:31",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195362/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 12:57:31",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195363",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195363&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 12:57:45",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195363/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 12:57:45",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195364",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195364&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 13:01:00",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195364/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 13:01:00",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195365",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195365&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 13:04:45",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195365/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 13:04:45",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195366",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195366&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 13:12:54",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195366/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 13:12:54",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195367",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195367&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 13:47:10",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195367/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 13:47:10",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195368",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195368&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 13:48:27",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195368/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 13:48:27",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195369",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195369&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 13:49:18",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195369/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 13:49:18",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195370",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195370&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 14:06:38",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195370/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 14:06:38",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "195371",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=195371&b=2006/04/afsc-easterrideout/Max/tinyindex.html",
     "photographer": "Max",
     "date_rally": "2006-04",
-    "date_exif": null,
+    "date_exif": "2006:04:08 23:53:25",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Max/195371/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2006:04:08 23:53:25",
+      "Make": "EASTMAN KODAK COMPANY",
+      "Model": "KODAK CX7525 ZOOM DIGITAL CAMERA",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "194884",
@@ -150,7 +278,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194884/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194885",
@@ -159,7 +290,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194885/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194886",
@@ -168,7 +302,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194886/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194887",
@@ -177,7 +314,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194887/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194888",
@@ -186,7 +326,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194888/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194889",
@@ -195,7 +338,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194889/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194890",
@@ -204,7 +350,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194890/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194891",
@@ -213,7 +362,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194891/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194892",
@@ -222,7 +374,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194892/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194893",
@@ -231,7 +386,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194893/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194894",
@@ -240,7 +398,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Michael/194894/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194788",
@@ -249,7 +410,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194788/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194789",
@@ -258,7 +422,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194789/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194790",
@@ -267,7 +434,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194790/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194791",
@@ -276,7 +446,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194791/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194792",
@@ -285,7 +458,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194792/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194793",
@@ -294,7 +470,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194793/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194794",
@@ -303,7 +482,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194794/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194795",
@@ -312,7 +494,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194795/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194796",
@@ -321,7 +506,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194796/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194797",
@@ -330,7 +518,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194797/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194798",
@@ -339,7 +530,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194798/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194799",
@@ -348,7 +542,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194799/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194800",
@@ -357,7 +554,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194800/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194801",
@@ -366,7 +566,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194801/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194802",
@@ -375,7 +578,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194802/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194803",
@@ -384,7 +590,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194803/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194804",
@@ -393,7 +602,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194804/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194805",
@@ -402,7 +614,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194805/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194806",
@@ -411,7 +626,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194806/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194807",
@@ -420,7 +638,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194807/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194808",
@@ -429,7 +650,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194808/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194809",
@@ -438,7 +662,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194809/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194810",
@@ -447,7 +674,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194810/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194811",
@@ -456,7 +686,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194811/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194812",
@@ -465,7 +698,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194812/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194813",
@@ -474,7 +710,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194813/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194814",
@@ -483,7 +722,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194814/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194815",
@@ -492,7 +734,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194815/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194816",
@@ -501,7 +746,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194816/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194817",
@@ -510,7 +758,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194817/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194818",
@@ -519,7 +770,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194818/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194819",
@@ -528,7 +782,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194819/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194820",
@@ -537,7 +794,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194820/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194821",
@@ -546,7 +806,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194821/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194822",
@@ -555,7 +818,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194822/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194823",
@@ -564,7 +830,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194823/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194824",
@@ -573,7 +842,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194824/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194825",
@@ -582,7 +854,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194825/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194826",
@@ -591,7 +866,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194826/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194827",
@@ -600,7 +878,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194827/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194828",
@@ -609,7 +890,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194828/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194829",
@@ -618,7 +902,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194829/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194830",
@@ -627,7 +914,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194830/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194831",
@@ -636,7 +926,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194831/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194832",
@@ -645,7 +938,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194832/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194833",
@@ -654,7 +950,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194833/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194834",
@@ -663,7 +962,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194834/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194835",
@@ -672,7 +974,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194835/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194836",
@@ -681,7 +986,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194836/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194837",
@@ -690,7 +998,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194837/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194838",
@@ -699,7 +1010,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194838/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194839",
@@ -708,7 +1022,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194839/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194840",
@@ -717,7 +1034,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194840/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194841",
@@ -726,7 +1046,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194841/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194842",
@@ -735,7 +1058,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194842/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194843",
@@ -744,7 +1070,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194843/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194844",
@@ -753,7 +1082,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194844/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194845",
@@ -762,7 +1094,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194845/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194846",
@@ -771,7 +1106,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194846/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194847",
@@ -780,7 +1118,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194847/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194848",
@@ -789,7 +1130,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194848/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194849",
@@ -798,7 +1142,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194849/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194850",
@@ -807,7 +1154,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194850/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194851",
@@ -816,7 +1166,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194851/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194852",
@@ -825,7 +1178,10 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194852/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "194853",
@@ -834,6 +1190,9 @@
     "date_rally": "2006-04",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-298bb0f2fc0a4462bd54d403b1bddbca.r2.dev/gallery/200604-Dirk/194853/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   }
 ]

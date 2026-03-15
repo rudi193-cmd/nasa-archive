@@ -5,5 +5,14 @@
   "year": 2005,
   "month": 6,
   "date_rally": "2005-06",
-  "photo_count": 520
+  "photo_count": 520,
+  "stories": [],
+  "description": "A photo gallery record indicating a scooter rally by Mods vs. Rockers in 2005 in June",
+  "notable_facts": [
+    "The event appears to have a photo gallery"
+  ],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:45:54Z",
+  "enriched_provider": "Cerebras3"
 }

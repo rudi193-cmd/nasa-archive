@@ -5,5 +5,16 @@
   "year": 2010,
   "month": 8,
   "date_rally": "2010-08",
-  "photo_count": 1361
+  "photo_count": 1361,
+  "lat": 37.787936,
+  "lng": -122.40752,
+  "city": "San Francisco",
+  "state_province": "California",
+  "country": "US",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:15:15Z",
+  "enriched_provider": "Cerebras2"
 }

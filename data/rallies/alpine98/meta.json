@@ -5,5 +5,13 @@
   "year": null,
   "month": null,
   "date_rally": null,
-  "photo_count": 0
+  "photo_count": 0,
+  "lat": 40.376806,
+  "lng": -111.795915,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:23:21Z",
+  "enriched_provider": "Novita"
 }

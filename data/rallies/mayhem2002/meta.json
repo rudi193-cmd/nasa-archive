@@ -5,5 +5,12 @@
   "year": 2002,
   "month": null,
   "date_rally": "2002-??",
-  "photo_count": 2203
+  "photo_count": 2203,
+  "stories": [],
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:27:15Z",
+  "enriched_provider": "Novita"
 }

@@ -5,5 +5,16 @@
   "year": 2005,
   "month": 5,
   "date_rally": "2005-05",
-  "photo_count": 826
+  "photo_count": 826,
+  "stories": [],
+  "city": "Buffalo",
+  "state_province": "New York",
+  "country": "US",
+  "recurring": false,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:46:10Z",
+  "enriched_provider": "Cerebras2"
 }

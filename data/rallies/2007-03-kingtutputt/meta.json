@@ -5,5 +5,13 @@
   "year": 2007,
   "month": 3,
   "date_rally": "2007-03",
-  "photo_count": 251
+  "photo_count": 251,
+  "stories": [],
+  "description": "The King Tut Putt is a scooter rally.",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:57:46Z",
+  "enriched_provider": "Cerebras2"
 }

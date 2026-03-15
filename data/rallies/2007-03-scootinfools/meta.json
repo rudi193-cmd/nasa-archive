@@ -5,5 +5,19 @@
   "year": 2007,
   "month": 3,
   "date_rally": "2007-03",
-  "photo_count": 996
+  "photo_count": 996,
+  "stories": [],
+  "description": "Scootin Fools Weekender was a scooter rally",
+  "hosting_club": "null",
+  "city": "null",
+  "state_province": "null",
+  "country": "null",
+  "recurring": "null",
+  "first_year": "null",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:00:09Z",
+  "enriched_provider": "Cerebras2"
 }

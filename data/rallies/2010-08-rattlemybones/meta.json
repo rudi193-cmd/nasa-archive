@@ -5,5 +5,14 @@
   "year": 2010,
   "month": 8,
   "date_rally": "2010-08",
-  "photo_count": 79
+  "photo_count": 79,
+  "description": "Information about the rally is limited, but it is described on Scoot.net with a gallery. The rally appears to be a scooter gather.",
+  "recurring": false,
+  "notable_facts": [
+    "Held in August 2010, as described on Scoot.net"
+  ],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:14:52Z",
+  "enriched_provider": "Cerebras3"
 }

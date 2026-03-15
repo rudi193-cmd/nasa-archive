@@ -5,5 +5,16 @@
   "year": 2003,
   "month": 7,
   "date_rally": "2003-07",
-  "photo_count": 72
+  "photo_count": 72,
+  "stories": [],
+  "description": "Mini-rally held in July 2003, documented on scoot.net.",
+  "country": "Canada",
+  "recurring": false,
+  "notable_facts": [
+    "Documented on scoot.net"
+  ],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T00:30:56Z",
+  "enriched_provider": "Novita"
 }

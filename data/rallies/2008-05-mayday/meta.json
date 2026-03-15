@@ -5,5 +5,13 @@
   "year": 2008,
   "month": 5,
   "date_rally": "2008-05",
-  "photo_count": 332
+  "photo_count": 332,
+  "stories": [],
+  "description": "a scooter rally held in [city, country or region], with attendance/participation details available on Scoot.net gallery",
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "low",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:03:36Z",
+  "enriched_provider": "Cerebras2"
 }

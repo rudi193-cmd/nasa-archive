@@ -5,5 +5,17 @@
   "year": 2012,
   "month": 8,
   "date_rally": "2012-08",
-  "photo_count": 31
+  "photo_count": 31,
+  "description": "Cradle of Liberty Camping Rally is a scooter rally by the RBSC.",
+  "hosting_club": "Regional Burnin Rubber Scooter Club (RBSC)",
+  "city": "null",
+  "state_province": "Pennsylvania",
+  "country": "US",
+  "recurring": false,
+  "notable_facts": [],
+  "related_clubs": [],
+  "source_confidence": "medium",
+  "enriched": true,
+  "enriched_at": "2026-03-15T01:19:30Z",
+  "enriched_provider": "Cerebras3"
 }
