@@ -218,12 +218,21 @@
     });
   }
 
-  /** Save to localStorage */
+  /** Save to localStorage + session model */
   function saveSession() {
     var key = 'nasa-chat-' + (slug || pageType || 'general');
     try {
       localStorage.setItem(key, JSON.stringify(history));
     } catch (e) {}
+
+    // Sync to session model if available
+    if (window.NASASession && slug) {
+      var session = window.NASASession.load(slug, slug.replace(/-/g, ' '));
+      session.oral_history = history.map(function (h) {
+        return { role: h.role, content: h.content, ts: new Date().toISOString() };
+      });
+      window.NASASession.save(session);
+    }
   }
 
   /** Clean cached messages of any metadata leaks */
@@ -264,17 +273,25 @@
     }
   });
 
-  // Save button — download conversation
+  // Save button — download conversation as local file
   if (saveBtn) {
     saveBtn.addEventListener('click', function () {
       if (history.length === 0) return;
-      var data = {
-        type: 'nasa_oral_history',
-        rally: slug,
-        page: pageType,
-        timestamp: new Date().toISOString(),
-        exchanges: history
-      };
+
+      // Use richer session model if available
+      var data;
+      if (window.NASASession && slug) {
+        data = window.NASASession.load(slug, slug.replace(/-/g, ' '));
+      } else {
+        data = {
+          type: 'nasa_oral_history',
+          rally: slug,
+          page: pageType,
+          timestamp: new Date().toISOString(),
+          exchanges: history
+        };
+      }
+
       var blob = new Blob(
         [JSON.stringify(data, null, 2)],
         { type: 'application/json' }
@@ -284,6 +301,21 @@
       a.download = 'nasa-riggs-' + (slug || pageType) + '-' + Date.now() + '.json';
       a.click();
       URL.revokeObjectURL(a.href);
+    });
+  }
+
+  // Forget button — clear local data for this conversation
+  var forgetBtn = document.querySelector('.riggs-forget');
+  if (forgetBtn) {
+    forgetBtn.addEventListener('click', function () {
+      var key = 'nasa-chat-' + (slug || pageType || 'general');
+      try { localStorage.removeItem(key); } catch (e) {}
+      if (window.NASASession && slug) {
+        try { localStorage.removeItem('nasa-session-' + slug); } catch (e) {}
+      }
+      history = [];
+      messagesEl.innerHTML = '';
+      appendMessage('assistant', 'Conversation cleared. Nothing saved.');
     });
   }
 
