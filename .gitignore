@@ -7,6 +7,9 @@ downloader/output/
 .env.local
 *.db
 .venv/
-.wrangler/
+.wrangler
 target/
 *.log
+.dev.vars*
+!.dev.vars.example
+!.env.example
