@@ -6,16 +6,5 @@
   "month": 7,
   "date_rally": "2012-07",
   "photo_count": 46,
-  "description": "Documentation of the Tour di Mari 5: The Super Secret Agent Rally, with images available on Scoot.net.",
-  "country": "Italy",
-  "notable_facts": [
-    "Held in July 2012",
-    "Images available on Scoot.net",
-    "Part of the Tour di Mari series"
-  ],
-  "related_clubs": [],
-  "source_confidence": "medium",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:21:54Z",
-  "enriched_provider": "Novita"
+  "stories": []
 }

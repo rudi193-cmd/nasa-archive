@@ -6,15 +6,5 @@
   "month": 5,
   "date_rally": "2010-05",
   "photo_count": 378,
-  "description": "Scoot.net gallery listing with images from the Sleepaway Camp scooter rally in 2010.",
-  "state_province": "Michigan",
-  "country": "US",
-  "notable_facts": [
-    "Held in May 2010"
-  ],
-  "related_clubs": [],
-  "source_confidence": "medium",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:15:39Z",
-  "enriched_provider": "Cerebras"
+  "stories": []
 }

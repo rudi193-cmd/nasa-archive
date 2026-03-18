@@ -131,7 +131,7 @@ class PreTrainingPipeline:
             _repo = Path(__file__).parent.parent
             if str(_repo) not in _sys.path:
                 _sys.path.insert(0, str(_repo))
-            from core.db import get_connection, init_schema
+            from archive_db.db import get_connection, init_schema
             self._get_connection = get_connection
             init_schema()
 
@@ -317,7 +317,7 @@ class PreTrainingPipeline:
 
         Returns dict with inserted counts per table.
         """
-        from core.db import get_willow_knowledge_connection
+        from archive_db.db import get_willow_knowledge_connection
 
         log.info("Connecting to Willow knowledge (PG schema sweet_pea_rudi19)...")
         wconn = get_willow_knowledge_connection()

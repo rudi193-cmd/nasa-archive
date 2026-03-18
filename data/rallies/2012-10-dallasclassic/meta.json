@@ -6,17 +6,5 @@
   "month": 10,
   "date_rally": "2012-10",
   "photo_count": 4,
-  "lat": 32.776272,
-  "lng": -96.796856,
-  "description": "Photos and info about the 2012 Dallas Classic Rally.",
-  "city": "Dallas",
-  "state_province": "Texas",
-  "country": "US",
-  "recurring": false,
-  "notable_facts": [],
-  "related_clubs": [],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:18:40Z",
-  "enriched_provider": "Cerebras2"
+  "stories": []
 }

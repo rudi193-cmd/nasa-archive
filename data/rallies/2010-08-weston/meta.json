@@ -6,14 +6,5 @@
   "month": 8,
   "date_rally": "2010-08",
   "photo_count": 100,
-  "description": "2010 Weston-Super-Mare National Scooter Rally occurred in Weston-super-Mare.",
-  "city": "Weston-super-Mare",
-  "state_province": "Somerset",
-  "country": "UK",
-  "notable_facts": [],
-  "related_clubs": [],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:16:00Z",
-  "enriched_provider": "Cerebras3"
+  "stories": []
 }

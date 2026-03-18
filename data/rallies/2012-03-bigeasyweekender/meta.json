@@ -6,19 +6,5 @@
   "month": 3,
   "date_rally": "2012-03",
   "photo_count": 130,
-  "description": "Not enough information to create a comprehensive description.",
-  "city": " null",
-  "state_province": " null",
-  "country": "null",
-  "recurring": false,
-  "notable_facts": [
-    "Rally took place in March 2012"
-  ],
-  "related_clubs": [
-    "null"
-  ],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:21:49Z",
-  "enriched_provider": "Cerebras3"
+  "stories": []
 }

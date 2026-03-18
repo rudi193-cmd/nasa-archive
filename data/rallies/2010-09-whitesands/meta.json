@@ -6,21 +6,5 @@
   "month": 9,
   "date_rally": "2010-09",
   "photo_count": 102,
-  "description": "The White Sands Mayhem was a scooter rally held at White Sands, NM, with an opportunity for scooterists to ride through the dunes and enjoy time with fellow enthusiasts.",
-  "hosting_club": "null",
-  "city": "Alamogordo",
-  "state_province": "New Mexico",
-  "country": "United States",
-  "recurring": false,
-  "notable_facts": [
-    "Held in September 2010",
-    "Featured riding through White Sands"
-  ],
-  "related_clubs": [
-    "null"
-  ],
-  "source_confidence": "medium",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:21:47Z",
-  "enriched_provider": "Cerebras2"
+  "stories": []
 }

@@ -6,18 +6,5 @@
   "month": 9,
   "date_rally": "2010-09",
   "photo_count": 612,
-  "hosting_club": "No Border Limits",
-  "country": "US",
-  "recurring": true,
-  "first_year": 2005,
-  "notable_facts": [
-    null
-  ],
-  "related_clubs": [
-    null
-  ],
-  "source_confidence": "medium",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:14:26Z",
-  "enriched_provider": "Novita"
+  "stories": []
 }

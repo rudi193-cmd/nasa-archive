@@ -6,7 +6,10 @@
     "date_rally": "2010-07",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406186/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "406187",
@@ -15,7 +18,10 @@
     "date_rally": "2010-07",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406187/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "406188",
@@ -24,7 +30,10 @@
     "date_rally": "2010-07",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406188/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "406189",
@@ -33,7 +42,10 @@
     "date_rally": "2010-07",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406189/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "406190",
@@ -42,7 +54,10 @@
     "date_rally": "2010-07",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406190/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "406191",
@@ -51,7 +66,10 @@
     "date_rally": "2010-07",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406191/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "406192",
@@ -60,25 +78,44 @@
     "date_rally": "2010-07",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406192/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "406193",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=406193&b=2010/07/dustbowl/Tammy/tinyindex.html",
     "photographer": "Tammy",
     "date_rally": "2010-07",
-    "date_exif": null,
+    "date_exif": "2010:07:10 18:16:50",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406193/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2010:07:10 18:16:50",
+      "Make": "SAMSUNG",
+      "Model": "SPH-M900",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "406194",
     "pic_url": "http://scoot.net/gallery/pic.html?pic=406194&b=2010/07/dustbowl/Tammy/tinyindex.html",
     "photographer": "Tammy",
     "date_rally": "2010-07",
-    "date_exif": null,
+    "date_exif": "2010:07:10 18:18:04",
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406194/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": {
+      "DateTimeOriginal": "2010:07:10 18:18:04",
+      "Make": "SAMSUNG",
+      "Model": "SPH-M900",
+      "_warning": "Camera clock accuracy not guaranteed. Use date_canonical for trusted dates."
+    }
   },
   {
     "pic_id": "406195",
@@ -87,7 +124,10 @@
     "date_rally": "2010-07",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406195/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   },
   {
     "pic_id": "406196",
@@ -96,6 +136,9 @@
     "date_rally": "2010-07",
     "date_exif": null,
     "date_canonical": null,
-    "date_source": "rally_slug"
+    "date_source": "rally_slug",
+    "r2_thumb": "https://pub-b58cb742396a47e6a5953f8d499e8c35.r2.dev/gallery/201007-Tammy/406196/thumb.jpg",
+    "r2_full": null,
+    "exif_meta": null
   }
 ]

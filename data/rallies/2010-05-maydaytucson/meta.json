@@ -6,20 +6,5 @@
   "month": 5,
   "date_rally": "2010-05",
   "photo_count": 145,
-  "lat": 32.222876,
-  "lng": -110.974847,
-  "description": "The Tucson's May Day Rally is a scooter rally in the US.",
-  "hosting_club": "Tucson Scoot Mob",
-  "city": "Tucson",
-  "state_province": "Arizona",
-  "country": "US",
-  "recurring": true,
-  "notable_facts": [
-    "Appears on Scoot.net"
-  ],
-  "related_clubs": [],
-  "source_confidence": "high",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:21:45Z",
-  "enriched_provider": "Cerebras2"
+  "stories": []
 }

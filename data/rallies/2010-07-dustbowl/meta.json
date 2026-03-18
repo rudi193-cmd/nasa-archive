@@ -6,19 +6,5 @@
   "month": 7,
   "date_rally": "2010-07",
   "photo_count": 11,
-  "hosting_club": "Pike Street Scooters",
-  "city": "Pike Street, a part of greater Seattle area appears to be the rally area",
-  "state_province": "Washington",
-  "country": "USA",
-  "recurring": false,
-  "notable_facts": [
-    "Held at Dust Bowl Acres"
-  ],
-  "related_clubs": [
-    "Pike Street Scooters' fellow crews from the Northwest USA scooter community"
-  ],
-  "source_confidence": "medium",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:13:18Z",
-  "enriched_provider": "Cerebras2"
+  "stories": []
 }

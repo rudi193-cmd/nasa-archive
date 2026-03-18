@@ -6,12 +6,5 @@
   "month": 9,
   "date_rally": "2010-09",
   "photo_count": 161,
-  "description": "Information about the 2010 Bagel Brunch and Oddscoot Classic is currently limited.",
-  "recurring": false,
-  "notable_facts": [],
-  "related_clubs": [],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:12:47Z",
-  "enriched_provider": "Novita"
+  "stories": []
 }

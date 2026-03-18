@@ -6,19 +6,5 @@
   "month": 8,
   "date_rally": "2010-08",
   "photo_count": 240,
-  "hosting_club": "null",
-  "city": "null",
-  "state_province": "null",
-  "country": "null",
-  "recurring": false,
-  "notable_facts": [
-    "http://scoot.net/gallery/2010/08/meltdown/ is a link to photos of the event"
-  ],
-  "related_clubs": [
-    "null"
-  ],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:14:08Z",
-  "enriched_provider": "Cerebras2"
+  "stories": []
 }

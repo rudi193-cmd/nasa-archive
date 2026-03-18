@@ -6,16 +6,5 @@
   "month": 5,
   "date_rally": "2012-05",
   "photo_count": 10,
-  "lat": 38.57381,
-  "lng": -109.546214,
-  "description": "A scooter rally held in Moab, Utah, featuring scooter enthusiasts riding through the scenic area.",
-  "city": "Moab",
-  "state_province": "Utah",
-  "country": "US",
-  "notable_facts": [],
-  "related_clubs": [],
-  "source_confidence": "medium",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:19:10Z",
-  "enriched_provider": "Cerebras3"
+  "stories": []
 }

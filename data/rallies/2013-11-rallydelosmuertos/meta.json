@@ -6,11 +6,5 @@
   "month": 11,
   "date_rally": "2013-11",
   "photo_count": 13,
-  "recurring": false,
-  "notable_facts": [],
-  "related_clubs": [],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:20:03Z",
-  "enriched_provider": "Cerebras3"
+  "stories": []
 }

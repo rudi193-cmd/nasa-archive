@@ -6,14 +6,5 @@
   "month": 9,
   "date_rally": "2010-09",
   "photo_count": 100,
-  "description": "I couldn't find a detailed description of this event, but it appears to be a run to Beat the Heat at the end of summer.",
-  "state_province": "AZ or TX, not 100% confirmed, seen online mentions of possibly Arizona or Texas",
-  "country": "US",
-  "notable_facts": [
-    "Held in September to 'beat the heat'"
-  ],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:15:08Z",
-  "enriched_provider": "Cerebras3"
+  "stories": []
 }

@@ -61,20 +61,37 @@ def resolve_one(photo):
 
 
 def phase1_resolve(rallies):
-    """Resolve all image URLs using thread pool. Saves resolved_urls.json."""
+    """Resolve all image URLs using thread pool. Saves resolved_urls.json with checkpoints."""
     all_photos = [p for rally in rallies for p in rally.get("photos", [])]
-    print(f"Phase 1: Resolving {len(all_photos):,} image URLs ({WORKERS} workers)...")
+
+    # Resume from checkpoint if exists
+    RESOLVED_FILE.parent.mkdir(parents=True, exist_ok=True)
     resolved = {}
+    if RESOLVED_FILE.exists():
+        with open(RESOLVED_FILE) as f:
+            resolved = json.load(f)
+        print(f"  Resuming from checkpoint: {len(resolved):,} already resolved")
+
+    already = set(resolved.keys())
+    remaining = [p for p in all_photos if p["pic_id"] not in already]
+    print(f"Phase 1: Resolving {len(remaining):,} image URLs ({len(already):,} cached, {WORKERS} workers)...")
+
+    if not remaining:
+        found = sum(1 for v in resolved.values() if v["small_url"])
+        print(f"  Already complete. {found:,}/{len(all_photos):,} URLs resolved.")
+        return resolved
+
     done = 0
     with ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        futures = {pool.submit(resolve_one, p): p for p in all_photos}
+        futures = {pool.submit(resolve_one, p): p for p in remaining}
         for future in as_completed(futures):
             pic_id, small_url, full_url = future.result()
             resolved[pic_id] = {"small_url": small_url, "full_url": full_url}
             done += 1
             if done % 500 == 0:
-                print(f"  {done:,}/{len(all_photos):,} resolved...")
-    RESOLVED_FILE.parent.mkdir(parents=True, exist_ok=True)
+                print(f"  {done:,}/{len(remaining):,} resolved (total {len(resolved):,})...")
+                with open(RESOLVED_FILE, "w") as f:
+                    json.dump(resolved, f)
     with open(RESOLVED_FILE, "w") as f:
         json.dump(resolved, f, indent=2)
     found = sum(1 for v in resolved.values() if v["small_url"])
@@ -167,13 +184,27 @@ def phase2_download(rallies, resolved):
     print(f"Phase 2: Downloading and uploading ({WORKERS} workers)...")
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Track completed rallies for resume
+    progress_file = Path(__file__).parent / "phase2_progress.json"
+    completed_slugs = set()
+    if progress_file.exists():
+        with open(progress_file) as f:
+            completed_slugs = set(json.load(f))
+        print(f"  Resuming: {len(completed_slugs):,} rallies already done")
+
+    total_rallies = sum(1 for r in rallies if r.get("photos"))
+    done_count = len(completed_slugs)
+
     for rally in rallies:
         slug = rally["slug"].replace("/", "-")
         photos = rally.get("photos", [])
         if not photos:
             continue
+        if slug in completed_slugs:
+            continue
         title = rally.get("title") or slug
-        print(f"  {title} ({len(photos)} photos)")
+        done_count += 1
+        print(f"  [{done_count}/{total_rallies}] {title} ({len(photos)} photos)")
         args_list = [(p, resolved, r2, bucket, public_url) for p in photos]
         updated = []
         with ThreadPoolExecutor(max_workers=WORKERS) as pool:
@@ -190,6 +221,11 @@ def phase2_download(rallies, resolved):
         meta["stories"] = []
         with open(out_dir / "meta.json", "w", encoding="utf-8") as f:
             json.dump(meta, f, indent=2, ensure_ascii=False)
+
+        # Checkpoint after each rally
+        completed_slugs.add(slug)
+        with open(progress_file, "w") as f:
+            json.dump(sorted(completed_slugs), f)
 
     print("  Phase 2 complete.")
 

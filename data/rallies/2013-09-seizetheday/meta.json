@@ -6,16 +6,5 @@
   "month": 9,
   "date_rally": "2013-09",
   "photo_count": 41,
-  "lat": 49.260872,
-  "lng": -123.113952,
-  "city": "Vancouver",
-  "state_province": "British Columbia",
-  "country": "Canada",
-  "recurring": false,
-  "notable_facts": [],
-  "related_clubs": [],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:20:05Z",
-  "enriched_provider": "Cerebras3"
+  "stories": []
 }

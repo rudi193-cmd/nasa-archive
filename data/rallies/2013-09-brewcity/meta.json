@@ -6,18 +6,5 @@
   "month": 9,
   "date_rally": "2013-09",
   "photo_count": 4,
-  "city": "Milwaukee",
-  "state_province": "Wisconsin",
-  "country": "US",
-  "recurring": true,
-  "notable_facts": [
-    null
-  ],
-  "related_clubs": [
-    null
-  ],
-  "source_confidence": "medium",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:19:59Z",
-  "enriched_provider": "Novita2"
+  "stories": []
 }

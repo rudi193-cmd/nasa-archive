@@ -5,3 +5,8 @@ scraper/output/
 downloader/output/
 .DS_Store
 .env.local
+*.db
+.venv/
+.wrangler/
+target/
+*.log

@@ -6,20 +6,5 @@
   "month": 11,
   "date_rally": "2012-11",
   "photo_count": 49,
-  "description": "Information on the rally is sparse, but it appears to be a scooter rally in cold weather.",
-  "city": "Saranac Lake",
-  "state_province": "New York",
-  "country": "US",
-  "recurring": true,
-  "notable_facts": [
-    "Held in November, suggesting the name 'Cold Weather Challenge' might actually be descriptive.",
-    "Location is Saranac Lake, which is an area known for its cold winters."
-  ],
-  "related_clubs": [
-    null
-  ],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:18:38Z",
-  "enriched_provider": "Cerebras3"
+  "stories": []
 }

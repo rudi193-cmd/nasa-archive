@@ -22,38 +22,26 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="repla
 sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
 # Willow core
-WILLOW_CORE = r"C:\Users\Sean\Documents\GitHub\Willow\core"
-sys.path.insert(0, WILLOW_CORE)
+_WILLOW_ROOT = Path(__file__).parent.parent / "Willow"
+WILLOW_CORE = str(_WILLOW_ROOT / "core")
+sys.path.insert(0, str(_WILLOW_ROOT))  # for "from core.db import ..."
+sys.path.insert(0, WILLOW_CORE)         # for "import llm_router"
 
 import llm_router
 import agent_registry
 
 llm_router.load_keys_from_json()
 
+# Riggs persona -- imported from personas.py (single source of truth)
+_REPO = Path(__file__).parent
+sys.path.insert(0, str(_REPO))
+from personas import get_persona
+
 USERNAME = "Sweet-Pea-Rudi19"
-AGENT_NAME = "nasa-oral-chat"
-SITE_ENV_LOCAL = Path(__file__).parent / "site" / ".env.local"
+AGENT_NAME = "riggs-archive"
+SITE_ENV_LOCAL = _REPO / "site" / ".env.local"
 
-SYSTEM_PROMPT = """You are the NASA oral historian -- the voice of the North America Scootering Archive.
-
-Your job: help community members share their memories of scooter rallies. You listen, ask follow-up questions, and help people tell their stories in their own words.
-
-Cultural principles you embody:
-- "Names Given Not Chosen" -- people go by their club names, not legal names. Always use what they give you.
-- "Someone Always Stops" -- rescues on the road are fundamental community stories. Ask about them.
-- "Grief Makes Space" -- if someone mentions someone who has passed, receive it gently.
-- "Corrections Not Erasure" -- if someone says the date was wrong, or the bike was different, that's valuable. Record it.
-- "Recognition Not Instruction" -- you're here to witness, not to teach.
-
-Your approach:
-1. Ask about specific moments, not general impressions
-2. Follow up on names that come up naturally
-3. Ask about bikes -- make, model, what broke, garden art status
-4. Ask about rescues -- who saved them, who they saved
-5. Ask about how people got their names (especially if it was drunk)
-6. Keep it conversational -- this is a bar story, not a deposition
-
-Keep replies short (2-4 sentences). Ask one follow-up question at a time."""
+SYSTEM_PROMPT = get_persona("NASA_Riggs")
 
 
 def _register_and_get_port() -> int:
@@ -61,10 +49,10 @@ def _register_and_get_port() -> int:
     agent_registry.register_agent(
         username=USERNAME,
         name=AGENT_NAME,
-        display_name="NASA Oral Chat",
+        display_name="Riggs — NASA Archive",
         trust_level="WORKER",
-        agent_type="service",
-        purpose="Local proxy for NASA oral history chat (Groq/fleet LLM)",
+        agent_type="persona",
+        purpose="Prof. Riggs, Applied Reality Engineering. Voice of the North America Scootering Archive.",
     )
     port = agent_registry.assign_port(USERNAME, AGENT_NAME, server_type="oral-chat")
     return port
@@ -111,18 +99,30 @@ class Handler(BaseHTTPRequestHandler):
 
         message = body.get("message", "").strip()
         slug = body.get("slug", "").strip()
+        page_type = body.get("page_type", "general").strip()
         history = body.get("history", [])
 
-        if not message or not slug:
-            self._json(400, {"error": "message and slug required"})
+        if not message:
+            self._json(400, {"error": "message required"})
             return
 
-        system_content = SYSTEM_PROMPT + f'\n\nThe user is sharing memories about the rally: "{slug}"'
+        # Build context based on page type
+        context = ""
+        if page_type == "rally" and slug:
+            context = f'\nThe user is sharing memories about the rally: "{slug.replace("-", " ")}"'
+        elif page_type == "photo":
+            context = "\nThe user is looking at a rally photo and wants to talk about it."
+        elif page_type == "club":
+            context = "\nThe user is browsing scooter clubs and might want to know about club history."
+        elif page_type == "patch":
+            context = "\nThe user is looking at rally patches and might have a patch story to share."
+
+        system_content = SYSTEM_PROMPT + context
         history_text = "\n".join(
-            f"{'User' if m['role'] == 'user' else 'Historian'}: {m['content']}"
+            f"{'User' if m['role'] == 'user' else 'Riggs'}: {m['content']}"
             for m in history[-10:]
         )
-        prompt = f"{system_content}\n\n{history_text}\nUser: {message}\nHistorian:"
+        prompt = f"{system_content}\n\n{history_text}\nUser: {message}\nRiggs:"
 
         try:
             reply = _call_fleet(prompt)

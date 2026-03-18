@@ -6,12 +6,5 @@
   "month": 6,
   "date_rally": "2010-06",
   "photo_count": 293,
-  "description": "Rally celebrating Ape scooters, exact activities unknown",
-  "recurring": false,
-  "notable_facts": [],
-  "related_clubs": [],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:13:54Z",
-  "enriched_provider": "Novita"
+  "stories": []
 }

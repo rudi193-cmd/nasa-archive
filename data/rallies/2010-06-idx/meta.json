@@ -6,16 +6,5 @@
   "month": 6,
   "date_rally": "2010-06",
   "photo_count": 222,
-  "description": "A historical motor scooter rally on July 1-4 (not June), no further details available",
-  "hosting_club": "California Scooter Enthusiasts (CSE) with American Scooter Association (ASA)",
-  "city": "Big Bear Lake",
-  "state_province": "California",
-  "country": "US",
-  "recurring": true,
-  "notable_facts": [],
-  "related_clubs": [],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:13:46Z",
-  "enriched_provider": "Cerebras3"
+  "stories": []
 }

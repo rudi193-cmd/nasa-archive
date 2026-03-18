@@ -6,15 +6,5 @@
   "month": 5,
   "date_rally": "2010-05",
   "photo_count": 309,
-  "description": "The Greek Islands Rally is an annual scooter rally held in various locations in Greece, promoting scooter culture and friendship among participants.",
-  "country": "Greece",
-  "recurring": true,
-  "notable_facts": [
-    "Annual scooter rally held in Greece",
-    "Promotes scooter culture and friendship among participants"
-  ],
-  "source_confidence": "low",
-  "enriched": true,
-  "enriched_at": "2026-03-15T01:13:34Z",
-  "enriched_provider": "Cerebras3"
+  "stories": []
 }
