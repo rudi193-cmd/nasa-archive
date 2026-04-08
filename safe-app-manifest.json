@@ -29,5 +29,5 @@
   "local_processing": 0.95,
   "entry_point": "pipeline.main:app",
   "license": "MIT",
-  "repository": "https://github.com/seancampbell3161/safe-app-nasa-archive"
+  "repository": "https://github.com/rudi193-cmd/safe-app-nasa-archive"
 }
